@@ -1,0 +1,70 @@
+---
+
+# <a href = "../../README.md" target="_blank">Git</a>
+## <a href = "../README.md" target="_blank">Chpater 2. Git의 기초</a>
+### 2.3 커밋 히스토리 조회하기
+1) git log
+2) 여러가지 옵션들
+3) 형식화 (git log --pretty)
+4) 조회 제한 조건
+
+---
+
+# 2.3 커밋 히스토리 조회하기
+
+## 1) git log
+> git log
+- 저장소의 히스토리를, 최근 부터 이전까지 순으로 보여줌
+- 해시코드, Author 정보, 커밋 시점, 커밋 메시지를 보여줌
+
+---
+
+## 2) 여러가지 옵션들
+- `git log -p` : 각 커밋에 적용된 패치(변경사항, diff)를 보여줌
+  - -2를 붙이면 최근 2개 커밋의 변경 내역을 확인할 수 있음.
+- `git log --stat` : 통계정보 출력 (어떤 파일이 수정됐는지, 얼마나 많은 파일이 변경됐는지, 얼마나 많은 라인을 추가/삭제했는지 보여줌). 맨 마지막에 요약정보 출력.
+- `git log --shortstat` : --stat의 명령 결과 중에서 수정한 파일, 추가된 라인, 삭제된 라인만 보여줌.
+- `git log --reverse` : 역순으로
+- `git log --oneline` : 한 줄로
+- `git log --name-only` : 수정된 파일의 목록만 보여줌
+- `git log --name-status` : 수정된 파일의 목록 + 파일 추가/수정/삭제 내역
+- `git log --abbrev-commit` : 40자짜리 SHA-1 체크섬(해시코드)을 전부 보여주는 것이 아니라 처음 7자만 보여주도록 함.
+- `git log --relative-date` : 정확한 날짜가 아닌, 상대적인 시간 형식으로 보여줌
+- `git log --graph` : 브랜치와 Merge 히스토리 정보까지 아스키 그래프로 보여줌
+- `git log --pretty` : 형식화 출력 옵션으로 oneline, short, full, fuller, format이 있음.
+
+---
+
+## 3) 형식화 (git log --pretty)
+- `=format:"포맷문자열"` : 형식화된 표현
+  - %H : 커밋 해시
+  - %h : 짧은 길이 커밋 해시
+  - %T : 트리 해시
+  - %t : 짧은 길이 트리 해시
+  - %P : 부모 해시
+  - %p : 짧은 길이 부모 해시
+  - %an : 저자 이름
+  - %ae : 저자 메일
+  - %ad : 저자 시각 (형식은 `-date=옵션`)
+  - %ar : 저자 상대적 시각
+  - %cn : 커미터 이름
+  - %ce : 커미터 메일
+  - %cd : 커미터 시각
+  - %cr : 커미터 상대적 시각
+  - %s : 요약
+
+---
+
+## 4) 조회 제한 조건
+- `git log --all` : 모두
+- `git log -(n)` : 최근 n개의 커밋만 조회
+- `git log --since=` : 명시된 날짜 이후
+- `git log --after=` : 명시된 날짜 이후
+- `git log --until=` : 명시된 날짜 이전
+- `git log --before="날짜"` : 명시된 날짜 이전
+- `git log --author="작성자명"` : 입력 작성자가 ~인 커밋만 보여줌
+- `git log --commiter="작성자명"` : 커미터가 ~인 커밋만 보여줌
+- `git log --grep="문자열"` : 커밋메시지 안의 텍스트 검색 
+- `git log --S="문자열"` : 커밋 변경(추가/삭제) 내용 안의 텍스트 검색
+
+---
