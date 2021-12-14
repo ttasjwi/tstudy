@@ -42,20 +42,25 @@
 
 ### 예시1>
 ```
-https://github.com/ttasjwi/Algorithm
+git clone https://github.com/ttasjwi/Algorithm
 ```
 - 현재 폴더 하위에 `Algorithm`폴더를 만들고 그 안에 `.git` 디렉토리 생성
 - 저장소의 데이터를 모두 가져와서, 자동으로 가장 최신 버전을 `checkout`함 (파일을 꺼내옴)
 
 ### 예시2>
 ```
-https://github.com/ttasjwi/Algorithm asdf
+git clone https://github.com/ttasjwi/Algorithm asdf
 ```
 - 위와 구조적으로 하는 일은 같은데, 폴더 이름을 asdf로 하여 생성함. 
 
 ---
 
 ## 4) SourceTree에서 기존 저장소를 Clone 하기
+<center><img src="img/clone1.jpg" /></center>
+<center><img src="img/clone2.jpg" /></center>
+
+- `clone`에서 로컬 git 저장소 또는 원격 저장소로부터 git을 클론해올 수 있음
+- 가져와짐과 동시에, 가장 최신 버전을 checkout함 (파일을 꺼내옴)
 
 ---
 
