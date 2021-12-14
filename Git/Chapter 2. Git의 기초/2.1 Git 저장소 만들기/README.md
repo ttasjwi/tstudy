@@ -16,6 +16,8 @@
 
 을 입력한다.
 
+![init](img/init1.jpg)
+
 - 결과 : 하위에 `.git` 디렉토리 생성. 해당 디렉토리를 git으로 관리하게 됨.
   - `.git` : git 저장소에 필요한 핵심 파일들이 들어있음.
 - `init` 명령만으로는 어떤 파일도 관리하지 않음. `add` 및 `commit` 명령을 통해 원하는 파일을 `git`으로 관리할 수 있음.
@@ -24,8 +26,8 @@
 
 ## 2) SourceTree에서 기존 디렉토리를 Git 저장소로 만들기
 
-![init](img/init1.jpg)
 ![init](img/init2.jpg)
+![init](img/init3.jpg)
 
 - `create`에서 디렉토리 생성과 동시에 `init`을 하거나, 이미 존재하는 디렉토리에 `init`을 할 수 있음.
 - `init`과 동시에, 원격 저장소로 관리하도록 할 수 있음.
