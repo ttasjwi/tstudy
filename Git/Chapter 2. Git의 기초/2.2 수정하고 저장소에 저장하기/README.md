@@ -14,6 +14,7 @@
 9) Staging Area 생략하기 (git commit -a)
 10) 파일 삭제하기 (git rm, git commit)
 11) 파일 이름 변경하기 (git mv)
+
 ---
 
 # 2.2 수정하고 저장소에 저장하기
@@ -21,11 +22,13 @@
 ## 1) 파일의 라이프 사이클
 
 ### Working Directory (Unstaged)의 구조
-  - Untracked (관리대상이 아닌) : 스냅샷 내역에 저장되어 있지 않고, Staging Area에 포함되지 않은 파일
-  - Tracked (관리대상인)
-    - Modified (수정된) : 이미 스냅샷에 올려진 파일들
-    - Staged (커밋으로 저장소에 기록할) : 수정된 파일 또는 Untracked 파일이 add를 통해 `Staged` 상태가 됨. 커밋하면 스냅샷이 git에 의해 관리되고, Unmodified 상태가 됨.
-    - Unmodified (수정되지 않은) : 마지막 커밋 이후 아직 아무 것도 수정하지 않은 상태
+<center><p><img src="img/FileLifeCycle.jpg" /></p></center>
+
+- Untracked (관리대상이 아닌) : 스냅샷 내역에 저장되어 있지 않고, Staging Area에 포함되지 않은 파일
+- Tracked (관리대상인)
+  - Modified (수정된) : 이미 스냅샷에 올려진 파일들
+  - Staged (커밋으로 저장소에 기록할) : 수정된 파일 또는 Untracked 파일이 add를 통해 `Staged` 상태가 됨. 커밋하면 스냅샷이 git에 의해 관리되고, Unmodified 상태가 됨.
+  - Unmodified (수정되지 않은) : 마지막 커밋 이후 아직 아무 것도 수정하지 않은 상태
 
 ---
 
