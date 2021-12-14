@@ -16,7 +16,44 @@
 > git log
 - 저장소의 히스토리를, 최근 부터 이전까지 순으로 보여줌
 - 해시코드, Author 정보, 커밋 시점, 커밋 메시지를 보여줌
+### 예시>
+```
+$ git log
+commit ea32d033d51192217c210289510bbf1b357c74e8 (HEAD -> master, origin/master, origin/HEAD)
+Author: ttasjwi <ttasjwi920@gmail.com>
+Date:   Wed Dec 8 21:39:37 2021 +0900
 
+    [4.02 revision] 다음 턴으로 다시 돌아가는 기능 추가
+
+    1. 작업상황
+        - `cancelRedo()` : 다음 턴으로 다시 돌아가기 기능 추가
+          - 현재 턴의 데이터를 다시 beforeStack에 쌓는다.
+          - afterStack에서 다음 턴의 데이터를 다시 가져온 뒤 이를 currentMap으로 한다.
+    2. 동작
+        - 다음 턴으로 다시 되돌아가기(돌아가기 취소 기능) 기능이 추가됐다. (U 명령어)
+
+commit 7ac5bd61d0958ad2cdda77b16520cf6dc5f7bb3f
+Author: ttasjwi <ttasjwi920@gmail.com>
+Date:   Wed Dec 8 21:30:59 2021 +0900
+
+    [4.01 revision] 이전 턴으로 돌아가는 기능 추가, `copyMap` 메서드 추가
+
+    1. 작업상황
+:...skipping...
+commit ea32d033d51192217c210289510bbf1b357c74e8 (HEAD -> master, origin/master, origin/HEAD)
+Author: ttasjwi <ttasjwi920@gmail.com>
+Date:   Wed Dec 8 21:39:37 2021 +0900
+
+    [4.02 revision] 다음 턴으로 다시 돌아가는 기능 추가
+
+    1. 작업상황
+        - `cancelRedo()` : 다음 턴으로 다시 돌아가기 기능 추가
+          - 현재 턴의 데이터를 다시 beforeStack에 쌓는다.
+          - afterStack에서 다음 턴의 데이터를 다시 가져온 뒤 이를 currentMap으로 한다.
+    2. 동작
+        - 다음 턴으로 다시 되돌아가기(돌아가기 취소 기능) 기능이 추가됐다. (U 명령어)
+
+```
 ---
 
 ## 2) 여러가지 옵션들
@@ -52,6 +89,8 @@
   - %cd : 커미터 시각
   - %cr : 커미터 상대적 시각
   - %s : 요약
+### 예시>
+<p><center><img src="img/log_pretty.jpg" /></center></p>
 
 ---
 
