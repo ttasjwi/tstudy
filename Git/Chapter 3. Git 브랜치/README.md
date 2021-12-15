@@ -13,7 +13,15 @@
 
 ---
 
-## 3.2 브랜치와 Merge의 기초
+## <a href="3.2 브랜치와 Merge의 기초.md" target="_blank">3.2 브랜치와 Merge의 기초</a>
+1) 브랜치를 이용한 개발의 흐름
+2) 브랜치 생성 및 체크아웃
+3) 브랜치 삭제
+4) 브랜치 병합
+5) Fast-Forward Merge
+6) 3-way Merge
+7) 병합 충돌(conflict)
+8) mergetool
 
 ---
 
