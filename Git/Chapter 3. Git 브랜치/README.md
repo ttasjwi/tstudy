@@ -31,11 +31,11 @@
 3) 병합된 브랜치 목록 (`git branch --merged`)
 4) 병합되지 않은 브랜치 목록 (`git branch --no-merged`)
 
-
 ---
 
-
-## 3.4 브랜치 워크플로
+## <a href="3.4 브랜치 워크플로.md" target="_blank">3.4 브랜치 워크플로</a>
+1) Long-Running 브랜치
+2) 토픽 브랜치
 
 ---
 
