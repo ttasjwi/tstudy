@@ -25,7 +25,12 @@
 
 ---
 
-## 3.3 브랜치 관리
+## <a href="3.3 브랜치 관리.md" target="_blank">3.3 브랜치 관리</a>
+1) 브랜치 목록 (`git branch`)
+2) 브랜치 목록 자세히 보기 (`git branch -v`)
+3) 병합된 브랜치 목록 (`git branch --merged`)
+4) 병합되지 않은 브랜치 목록 (`git branch --no-merged`)
+
 
 ---
 
