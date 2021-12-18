@@ -13,7 +13,10 @@
 
 ---
 
-## 4.3 SSH 공개키 만들기
+## <a href="4.3 SSH 공개키 만들기.md" target="_blank">4.3 SSH 공개키 만들기</a>
+1) SSH 프로토콜
+2) Windows에서 SSH 공개키 생성
+3) `.ssh` 폴더 확인
 
 ---
 
