@@ -37,10 +37,12 @@
 
 ---
 
-## <a href="2.4 되돌리기/README.md" target="_blank">2.4 되돌리기</a>
+## <a href="2.4 되돌리기.md" target="_blank">2.4 되돌리기</a>
 1) 완료된 커밋 다시 수정하기(커밋 덮어쓰기)
-2) 파일을 Unstaged 상태로 변경하기
-3) Modified 파일 되돌리기
+2) 파일을 Unstaged 상태로 변경하기 (Index 되돌리기)
+3) Modified 파일을 되돌리기 (책)
+4) git restore
+5) 전체 되돌리기
 
 ---
 
