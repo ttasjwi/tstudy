@@ -29,7 +29,7 @@
 
 ---
 
-## <a href="2.3 커밋 히스토리 조회하기/README.md" target="_blank">2.3 커밋 히스토리 조회하기</a>
+## <a href="2.3 커밋 히스토리 조회하기.md" target="_blank">2.3 커밋 히스토리 조회하기</a>
 1) git log
 2) 여러가지 옵션들
 3) 형식화 (git log --pretty)
