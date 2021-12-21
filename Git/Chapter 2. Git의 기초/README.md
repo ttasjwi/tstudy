@@ -14,18 +14,18 @@
 
 ---
 
-## <a href="2.2 수정하고 저장소에 저장하기/README.md" target="_blank">2.2 수정하고 저장소에 저장하기</a>
+## <a href="2.2 수정하고 저장소에 저장하기.md" target="_blank">2.2 수정하고 저장소에 저장하기</a>
 1) 파일의 라이프 사이클
 2) 파일의 상태 확인하기 (git status)
 3) 파일 상태를 짤막하게 확인하기 (git status -s, git status --short)
 4) 파일을 새로 추적하기 (git add)
 5) Modified 상태의 파일을 Stage하기 (git add)
-6) 파일 무시하기 (.gitignore)
-7) Staged와 Unstaged 상태의 변경 내용을 보기 (git diff)
-8) 변경사항 커밋하기 (git commit)
-9) Staging Area 생략하기 (git commit -a)
-10) 파일 삭제하기 (git rm, git commit)
-11) 파일 이름 변경하기 (git mv)
+6) 파일 삭제하기 (git rm)
+7) 파일 이름 변경하기 (git mv)
+8) 파일 무시하기 (.gitignore)
+9) Staged와 Unstaged 상태의 변경 내용을 보기 (git diff)
+10) 변경사항 커밋하기 (git commit)
+11) Staging Area 생략하기 (git commit -a)
 
 ---
 
