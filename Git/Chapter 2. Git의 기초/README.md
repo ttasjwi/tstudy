@@ -6,7 +6,7 @@
 
 ---
 
-## <a href="2.1 Git 저장소 만들기/README.md" target="_blank">2.1 Git 저장소 만들기</a>
+## <a href="2.1 Git 저장소 만들기.md" target="_blank">2.1 Git 저장소 만들기</a>
 1) 기존 디렉토리를 Git 저장소로 만들기 (git init)
 2) SourceTree에서 기존 디렉토리를 Git 저장소로 만들기
 3) 기존 저장소를 Clone 하기 (git clone)
