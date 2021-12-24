@@ -16,3 +16,10 @@
 4) 프록시 패턴의 사용 목적
 
 ---
+
+## <a href="6.3 데코레이터 패턴(Decorator Pattern).md" target="_blank">6.3 데코레이터 패턴(Decorator Pattern)</a>
+1) 데코레이터 패턴
+2) 데코레이터 패턴의 매커니즘
+
+---
+
