@@ -18,10 +18,11 @@
 1) Thread 클래스 상속
 2) Runnable 인터페이스의 구현체를 인자로 하여 Thread 생성
 
-## 2.2 스레드의 실행
-1. 스레드의 실행 : start()
-2. start()와 run()
-3. main 스레드
+## <a href="2. 스레드의 구현과 실행/2.2 스레드의 실행.md" target="_blank">2.2 스레드의 실행</a>
+1) 스레드의 실행 - start()
+2) start()와 run()
+3) main 스레드
+4) Stack의 소멸, 프로그램의 종료
 
 ---
 
