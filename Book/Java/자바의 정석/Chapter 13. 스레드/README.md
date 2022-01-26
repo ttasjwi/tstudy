@@ -74,6 +74,11 @@
 1) sleep
 2) 예외처리
 
+## <a href="7. 스레드의 실행제어/7.3 interrupt.md" target="_blank">7.3 interrupt</a>
+1) interrupt()
+2) interrupted 상태 관련 메서드
+3) 부가적 효과 - WAITING, TIMED_WAITING 상태에서 탈출한다.
+
 ---
 
 # 쓰레드의 동기화
