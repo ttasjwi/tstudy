@@ -70,9 +70,10 @@
 # 7. 스레드의 실행제어
 ## 7.1 스레드의 상태
 
-## <a href="7. 스레드의 실행제어/7.2 sleep.md" target="_blank">7.2 sleep</a>
+## <a href="7. 스레드의 실행제어/7.2 sleep, join.md" target="_blank">7.2 sleep, join</a>
 1) sleep
-2) 예외처리
+2) join
+3) 예외처리
 
 ## <a href="7. 스레드의 실행제어/7.3 interrupt.md" target="_blank">7.3 interrupt</a>
 1) interrupt()
