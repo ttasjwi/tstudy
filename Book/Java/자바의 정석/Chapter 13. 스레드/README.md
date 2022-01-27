@@ -79,6 +79,11 @@
 2) interrupted 상태 관련 메서드
 3) 부가적 효과 - WAITING, TIMED_WAITING 상태에서 탈출한다.
 
+## <a href="7. 스레드의 실행제어/7.4 suspend, resume, stop (deprecated).md" target="_blank">7.4 suspend, resume, stop (deprecated)</a>
+1) suspend
+2) resume
+3) stop
+
 ---
 
 # 쓰레드의 동기화
