@@ -85,7 +85,8 @@
 2) resume
 3) stop
 
----
+## <a href="7. 스레드의 실행제어/7.5 yield.md" target="_blank">7.5 yield</a>
+1) yield
 
 # 쓰레드의 동기화
 
