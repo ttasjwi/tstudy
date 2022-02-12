@@ -72,6 +72,10 @@
 2) 데이터 조작어(DML)
 3) 데이터 제어어(DCL)
 
+### <a href="Chapter 03. 데이터베이스 시스템/3.5 데이터베이스 관리 시스템의 구성.md" target="_blank">3.5 데이터베이스 관리 시스템의 구성</a>
+1) 질의 처리기(Query Processor)
+2) 저장 데이터 관리자(Stored Data Manager)
+
 ---
 
 ## Chapter 04. 데이터 모델링
