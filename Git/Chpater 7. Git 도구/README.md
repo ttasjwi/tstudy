@@ -30,7 +30,10 @@
 
 ---
 
-## 7.06 히스토리 단장하기
+## <a href="7.06 히스토리 단장하기.md" target="_blank">7.06 히스토리 단장하기</a>
+1) 마지막 커밋 수정하기 (git commit --amend)
+2) 여러 과거 커밋 수정하기(git rebase -i)
+3) filter-branch
 
 ---
 
