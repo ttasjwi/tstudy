@@ -37,7 +37,10 @@
 
 ---
 
-## 7.07 Reset 명확히 알고 가기
+## <a href="7.07 Reset 명확히 알고 가기.md" target="_blank">7.07 Reset 명확히 알고 가기</a>
+1) 기본 용어
+2) 경로가 지정되지 않은 reset
+3) 경로가 지정된 reset
 
 ---
 
