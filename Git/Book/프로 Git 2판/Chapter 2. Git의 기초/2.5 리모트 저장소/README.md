@@ -43,17 +43,19 @@ origin  https://github.com/ttasjwi/Note (push)
 
 ---
 
-## 3) 리모트 저장소에서 데이터 가져오기 (fetch, pull)
-> git fetch 단축이름
-- 지정 리모트 저장소에 있는 데이터를 모두 가져옴.
+## 3) 리모트 저장소에서 커밋 가져오기 (fetch, pull)
+> git fetch [remote]
+- 지정 리모트 저장소에 있는 커밋을 모두 가져옴.
 
-> git pull 단축이름 브랜치명
-- 지정 리모트 저장소에 있는 데이터를 가져오고, 로컬 브랜치의 현재 작업 코드와, 지정 브랜치를 merge 시킴
+> git pull [remote] 브랜치명
+- 지정 리모트 저장소에 있는 데이터를 가져오고, 현재 브랜치와, 지정 브랜치를 merge 사용
+- 하지만 pull은 쓰지 않는게 좋다.
+- fetch로 원격 저장소의 커밋들을 가져오고 판단하여 merge 또는 rebase를 하는 식으로, 여러 작업을 명시적으로 나눠서 진행하는 것이 현명하다.
 
 ---
 
 ## 4) 리모트 저장소에 Push하기
-> git push 리모트저장소명 브랜치명
+> git push [remote] [branch]
 - Clone한 remote 저장소에 쓰기 권한이 있고, Clone한 이후 아무도 Upstream 저장소에 push하지 않았을 때만 사용 가능.
 - Clone한 사람이 여러명 있고, 다른 사람이 push한 후에 push할 수 없다.
   - push 데이터를 가져와서 merge한 뒤에 push할 수 있음.
