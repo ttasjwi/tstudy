@@ -1,4 +1,4 @@
-### [Note](../) / [Java](.)
+### [Note](/README.md) / [Java](.)
 
 # Java
 - 자바 학습을 기록하기 위함
