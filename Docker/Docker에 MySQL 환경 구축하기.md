@@ -6,7 +6,7 @@
 - [x] 가상환경에서 MySQL을 사용하기 위해 Docker를 설치
 - [x] Docker로 ko_KR.UTF-8 로케일을 적용한 MySQL 이미지 만들기
 - [x] Docker 명령으로 MySQL 컨테이너 실행
-- [ ] Docker 명령으로 MySQL 컨테이너에 Bash로 접속
+- [x] Docker 명령으로 MySQL 컨테이너에 Bash로 접속
 
 ---
 
@@ -86,7 +86,7 @@ services:
     container_name: mysql # 컨테이너 이름 설정
     ports: # 접근 포트 설정 (여러개 설정 가능, 컨테이너 외부:컨테이너 내부)
       - 3306:3306
-    env_file: .env
+    env_file: .env # .env 파일을 읽고 설정으로 사용함
     command:
       - --character-set-server=utf8mb4
       - --collation-server=utf8mb4_unicode_ci
@@ -95,6 +95,13 @@ services:
       - ./mysql/conf:/etc/mysql/conf.d # conf
       - ./mysql/initdb:/docker-entrypoint-initdb.d
 
+```
+### .env(환경변수)
+```env
+TZ=Asia/Seeoul
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+MYSQL_ROOT_PASSWORD=패스워드
 ```
 - 참고링크 : [Docker Compose로 MySQL/MariaDB 세팅하기](https://int-i.github.io/sql/2020-12-31/mysql-docker-compose)
 - 본래 conf.d 하위에 정의한 cnf 파일을 읽어다 mysql에서 부가적으로 사용하는데 여기서 한 10시간 넘게 삽질했다. 이 부분은 내가 실행했을 때 제대로 먹지 않았다.
@@ -115,3 +122,12 @@ docker-compose up -d
 
 ---
 
+## 4. Docker 명령으로 MySQL 컨테이너에 Bash로 접속
+
+### 컨테이너의 bash명령어 실행
+```shell
+docker exec -it [컨테이너명] bash
+```
+- 앞에서 생성한 컨테이너명를 대화형 명령으로 bash로 접속함.
+
+---
