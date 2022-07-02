@@ -8,6 +8,7 @@
 ## Chapter 01. HTTP 개관
 - <a href="Chapter 01. HTTP 개관/1.1 HTTP - 인터넷의 멀티미디어 배달부.md" target="_blank">1.1 HTTP - 인터넷의 멀티미디어 배달부</a>
 - <a href="Chapter 01. HTTP 개관/1.2 웹 클라이언트와 서버.md" target="_blank">1.2 웹 클라이언트와 서버</a>
+- <a href="Chapter 01. HTTP 개관/1.3 리소스.md" target="_blank">1.3 리소스</a>
 
 ## Chapter 02. URL과 리소스
 ## Chapter 03. HTTP 메시지
