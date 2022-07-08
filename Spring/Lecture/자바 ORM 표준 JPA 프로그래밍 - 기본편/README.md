@@ -10,8 +10,16 @@
 ---
 
 ## Chapter 02. JPA 시작하기
-- 2.1 Hello JPA - 프로젝트 생성
-- 2.2 Hello JPA - 애플리케이션 개발
+### <a href="Chapter 02. JPA 시작하기/2.1 Hello JPA - 프로젝트 생성.md" target="_blank">2.1 Hello JPA - 프로젝트 생성</a>
+1) H2 데이터베이스 설치
+2) maven 프로젝트 생성
+3) pom.xml의 dependencies에 의존 라이브러리 추가
+4) persistence.xml
+5) IntelliJ Setting
+6) 실행 확인
+### 2.2 Hello JPA - 애플리케이션 개발
+
+---
 
 ## Chapter 03. 영속성 관리 - 내부 동작 방식
 - 3.1 영속성 컨텍스트 1
