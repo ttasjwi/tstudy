@@ -43,7 +43,12 @@
 
 ## Chapter 03. 정렬과 연산
 
-### 09강. 정렬 - ORDER BY
+### <a href="Chapter 03. 정렬과 연산/09강. 정렬 - ORDER BY.md" target="_blank">09강. 정렬 - ORDER BY</a>
+1) ORDER BY : 검색 결과 정렬
+2) ORDER BY ~ DESC : 내림차순 정렬
+3) 정렬 기준 : 값의 대소관계
+4) ORDER BY는 테이블에 영향을 주지 않음
+
 ### 10강. 복수의 열을 지정해 정렬하기
 ### 11강. 결과 행 제한하기 - LIMIT
 ### 12강. 수치 연산
