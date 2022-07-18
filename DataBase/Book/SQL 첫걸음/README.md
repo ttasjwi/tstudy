@@ -69,7 +69,11 @@
 7) 함수
 8) ROUND 함수
 9) 그 외
-### 13강. 문자열 연산
+### <a href="Chapter 03. 정렬과 연산/13강. 문자열 연산.md" target="_blank">13강. 문자열 연산</a>
+1) 문자열 결합(CONCAT,||,+)
+2) 문자열 추출(SUBSTRING)
+3) 앞 뒤 공백 제거(TRIM)
+4) 문자열 길이(CHARACTER_LENGTH, OCTET_LENGTH)
 ### 14강. 날짜 연산
 ### 15강. CASE 문으로 데이터 변환하기
 
