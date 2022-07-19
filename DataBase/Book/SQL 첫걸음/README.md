@@ -132,7 +132,12 @@
 5) DISTINCT로 중복 제거
 6) 집계함수에서의 DISTINCT
 
-### 21강. COUNT 이외의 집계함수
+### <a href="Chapter 05. 집계와 서브쿼리/21강. COUNT 이외의 집계함수.md" target="_blank">21강. COUNT 이외의 집계함수</a>
+1) SUM으로 합계 구하기
+2) AVG로 평균내기
+3) MIN, MAX로 최솟값, 최댓값 구하기
+4) (MySQL) 문자열의 집약(GROUP_CONCAT)
+
 ### 22강. 그룹화 - GROUP BY
 ### 23강. 서브쿼리
 ### 24강. 상관 서브쿼리
