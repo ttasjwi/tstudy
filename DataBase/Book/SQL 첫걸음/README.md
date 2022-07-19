@@ -93,7 +93,13 @@
 ---
 
 ## Chapter 04. 데이터의 추가, 삭제, 갱신
-### 16강. 행 추가하기 - INSERT
+### <a href="Chapter 04. 데이터의 추가, 삭제, 갱신/16강. 행 추가하기 - INSERT.md" target="_blank">16강. 행 추가하기 - INSERT</a>
+1) INSERT로 행 추가하기
+2) 값을 저장할 칼럼 지정하기
+3) DEFAULT
+4) NULL 삽입 주의 - NOT NULL 제약 조건
+5) (MySQL) 복수의 행을 한번에 INSERT하기(Multi Row Insert)
+6) 다른 테이블에서 복사하기
 ### 17강. 삭제하기 - DELETE
 ### 18강. 데이터 갱신하기 - UPDATE
 ### 19강. 물리삭제와 논리삭제
