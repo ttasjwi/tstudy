@@ -115,7 +115,10 @@
 5) DEFAULT 갱신
 6) NULL 갱신
 
-### 19강. 물리삭제와 논리삭제
+### <a href="Chapter 04. 데이터의 추가, 삭제, 갱신/19강. 물리삭제와 논리삭제.md" target="_blank">19강. 물리삭제와 논리삭제</a>
+1) 물리삭제(Hard Delete)
+2) 논리삭제(Soft Delete)
+3) 삭제 방법 선택
 
 ---
 
