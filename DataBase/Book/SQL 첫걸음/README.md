@@ -123,7 +123,15 @@
 ---
 
 ## Chapter 05. 집계와 서브쿼리
-### 20강. 행 개수 구하기 - COUNT
+
+### <a href="Chapter 05. 집계와 서브쿼리/20강. 행 개수 구하기 - COUNT.md" target="_blank">20강. 행 개수 구하기 - COUNT</a>
+1) 집계함수(Aggregate Function)
+2) COUNT로 행의 개수 구하기
+3) 집계 함수의 동작 순서
+4) 집계함수와 NULL 값
+5) DISTINCT로 중복 제거
+6) 집계함수에서의 DISTINCT
+
 ### 21강. COUNT 이외의 집계함수
 ### 22강. 그룹화 - GROUP BY
 ### 23강. 서브쿼리
