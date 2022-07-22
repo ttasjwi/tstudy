@@ -26,7 +26,12 @@
 5) WAS의 주요 튜닝 포인트는 최대 스레드 수
 6) WAS(서블릿 컨테이너 - 톰캣)의 멀티 스레드 관리 지원
 
-### 1.4 HTML, HTTP API, CSR, SSR
+### <a href="Chapter 01. 웹 애플리케이션의 이해/1.4 HTML, HTTP API, SSR, CSR.md" target="_blank">1.4 HTML, HTTP API, SSR, CSR</a>
+1) 웹 컨텐츠 리소스
+2) SSR : 서버 사이드 렌더링
+3) CSR : 클라이언트 사이드 렌더링
+4) 선택과 집중 - 어디까지 알아야할까?
+
 ### 1.5 자바 백엔드 웹 기술 역사
 
 ---
