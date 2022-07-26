@@ -68,7 +68,10 @@
 4) 여러 BooleanExpression의 조합 메서드
 5) 항상 기본적으로 적용해야하는 검색 조건 공통화
 
-### 5.4 조회 API 컨트롤러 개발
+### <a href="Chapter 05. 실무 활용 - 순수 JPA와 Querydsl/5.4 조회 API 컨트롤러 개발.md" target="_blank">5.4 조회 API 컨트롤러 개발</a>
+1) (실습 설정) `application.yml` profile 분리
+2) (실습) 샘플 회원을 java 코드로 로딩시점에 등록
+3) (실습) 컨트롤러에 회원 검색 API 제공기능 추가
 
 ---
 
