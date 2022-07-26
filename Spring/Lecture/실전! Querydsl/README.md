@@ -61,7 +61,13 @@
 3) BooleanBuilder을 구성하여 동적 쿼리 작성하기
 4) 주의점 : 파라미터에 아무 것도 없을 때
 
-### 5.3 동적 쿼리와 성능 최적화 조회 - Where절 파라미터 사용
+### <a href="Chapter 05. 실무 활용 - 순수 JPA와 Querydsl/5.3 동적 쿼리와 성능 최적화 조회 - Where절 파라미터 사용.md" target="_blank">5.3 동적 쿼리와 성능 최적화 조회 - Where절 파라미터 사용</a>
+1) (실습) BooleanExpression 메서드 분리
+2) (실습) Where절에서 조건들 연결하기
+3) BooleanExpression 메서드들의 재사용성
+4) 여러 BooleanExpression의 조합 메서드
+5) 항상 기본적으로 적용해야하는 검색 조건 공통화
+
 ### 5.4 조회 API 컨트롤러 개발
 
 ---
