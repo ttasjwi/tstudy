@@ -55,7 +55,12 @@
 1) 리포지토리에 Querydsl 의존관계 등록
 2) 리포지토리 계층에서 Querydsl 사용하기 - 실습 및 테스트
 
-### 5.2 동적 쿼리와 성능 최적화 조회 - Builder 사용
+### <a href="Chapter 05. 실무 활용 - 순수 JPA와 Querydsl/5.2 동적 쿼리와 성능 최적화 조회 - Builder 사용.md" target="_blank">5.2 동적 쿼리와 성능 최적화 조회 - Builder 사용</a>
+1) (실습) 조회 대상 DTO 생성 : MemberTeamDto
+2) (실습) 조회 조건 DTO 생성 : MemberSearchCondition
+3) BooleanBuilder을 구성하여 동적 쿼리 작성하기
+4) 주의점 : 파라미터에 아무 것도 없을 때
+
 ### 5.3 동적 쿼리와 성능 최적화 조회 - Where절 파라미터 사용
 ### 5.4 조회 API 컨트롤러 개발
 
