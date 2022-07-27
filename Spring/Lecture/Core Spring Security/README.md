@@ -6,7 +6,14 @@
 ---
 
 ## Chapter 01. 스프링 시큐리티 기본 API 및 Filter 이해
-### 1.01 프로젝트 구성 및 의존성 추가
+### <a href="Chapter 01. 스프링 시큐리티 기본 API 및 Filter 이해/1.01 프로젝트 구성 및 의존성 추가.md" target="_blank">1.01 프로젝트 구성 및 의존성 추가</a>
+1) 프로젝트 생성
+2) IDE 설정(IntelliJ)
+3) Gradle 설정
+4) 테스트 컨트롤러 생성
+5) 스프링 시큐리티 의존성 추가 시 일어나는 일들
+6) 스프링 시큐리티 기본 제공 기능의 한계
+
 ### 1.02 사용자 정의 보안 기능 구현
 ### 1.03 Form Login 인증
 ### 1.04 Form Login 인증 필터 : UsernamePasswordAuthenticationFilter
