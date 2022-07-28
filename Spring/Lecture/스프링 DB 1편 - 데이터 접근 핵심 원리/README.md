@@ -18,7 +18,13 @@
 4) DB 파일 생성
 5) 기본 테이블 생성하기
 
-### 1.3 JDBC 이해
+### <a href="Chapter 01. JDBC 이해/1.3 JDBC 이해.md" target="_blank">1.3 JDBC 이해</a>
+1) 도입 배경 : 표준화되지 않은 데이터베이스 접근 방법
+2) JDBC(Java Database Connectivity)
+3) JDBC 표준 인터페이스와 JDBC Driver
+4) JDBC 도입을 통해 얻어낸 것
+5) 순수 JDBC의 한계
+
 ### 1.4 JDBC와 최신 데이터 접근 기술
 ### 1.5 데이터베이스 연결
 ### 1.6 JDBC 개발 - 등록
