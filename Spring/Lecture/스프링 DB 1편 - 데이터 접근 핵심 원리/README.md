@@ -25,7 +25,13 @@
 4) JDBC 도입을 통해 얻어낸 것
 5) 순수 JDBC의 한계
 
-### 1.4 JDBC와 최신 데이터 접근 기술
+
+### <a href="Chapter 01. JDBC 이해/1.4 JDBC와 최신 데이터 접근 기술.md" target="_blank">1.4 JDBC와 최신 데이터 접근 기술</a>
+1) 순수 JDBC(1997)
+2) SQL Mapper
+3) ORM(Object Relational Mapping)
+4) 결국 모든 기술 기반에 JDBC가 있다.
+
 ### 1.5 데이터베이스 연결
 ### 1.6 JDBC 개발 - 등록
 ### 1.7 JDBC 개발 - 조회
