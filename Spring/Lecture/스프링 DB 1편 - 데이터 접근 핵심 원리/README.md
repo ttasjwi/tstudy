@@ -32,7 +32,11 @@
 3) ORM(Object Relational Mapping)
 4) 결국 모든 기술 기반에 JDBC가 있다.
 
-### 1.5 데이터베이스 연결
+### <a href="Chapter 01. JDBC 이해/1.5 데이터베이스 연결.md" target="_blank">1.5 데이터베이스 연결</a>
+1) (실습) 커넥션 획득하기
+2) JDBC 커넥션 인터페이스와 구현
+3) DriverManager를 통한 커넥션 요청 흐름
+
 ### 1.6 JDBC 개발 - 등록
 ### 1.7 JDBC 개발 - 조회
 ### 1.8 JDBC 개발 - 수정, 삭제
