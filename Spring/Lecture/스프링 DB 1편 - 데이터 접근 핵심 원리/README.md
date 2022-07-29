@@ -37,7 +37,12 @@
 2) JDBC 커넥션 인터페이스와 구현
 3) DriverManager를 통한 커넥션 요청 흐름
 
-### 1.6 JDBC 개발 - 등록
+### <a href="Chapter 01. JDBC 이해/1.6 JDBC 개발 - 등록.md" target="_blank">1.6 JDBC 개발 - 등록</a>
+1) 회원 테이블 생성
+2) 회원 클래스 생성
+3) DriverManager를 이용한 회원 등록 기능 구현(MemberRepositoryV0)
+4) 회원 등록 기능 테스트(MemberRepositoryV0Test)
+
 ### 1.7 JDBC 개발 - 조회
 ### 1.8 JDBC 개발 - 수정, 삭제
 
