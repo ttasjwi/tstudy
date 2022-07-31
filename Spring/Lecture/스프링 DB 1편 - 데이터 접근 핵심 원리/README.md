@@ -48,7 +48,11 @@
 2) ResultSet의 내부 구조 및 사용 방법
 3) 회원 등록, 조회 테스트(MemberRepositoryV0Test)
 
-### 1.8 JDBC 개발 - 수정, 삭제
+### <a href="Chapter 01. JDBC 이해/1.8 JDBC 개발 - 수정, 삭제.md" target="_blank">1.8 JDBC 개발 - 수정, 삭제</a>
+1) DriverManager를 이용한 수정 기능 구현(MemberRepositoryV0)
+2) 수정 기능 테스트
+3) DriverManager를 이용한 삭제 기능 구현(MemberRepositoryV0)
+4) 삭제 기능 테스트
 
 ---
 
