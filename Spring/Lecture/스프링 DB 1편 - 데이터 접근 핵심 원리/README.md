@@ -65,7 +65,13 @@
 5) 커넥션의 수
 6) 커넥션 풀 라이브러리
 
-### 2.2 DataSource 이해
+### <a href="Chapter 02. 커넥션 풀과 DataSource 이해/2.2 DataSource 이해.md" target="_blank">2.2 DataSource 이해</a>
+1) 커넥션을 획득하는 다양한 방법
+2) 커넥션을 획득하는 방법을 변경 시 문제점
+3) DataSource : 커넥션을 획득하는 방법을 추상화
+4) 커넥션 풀 라이브러리들은 이미 DataSource를 구현함
+5) DriverManagerDataSource : Spring의 지원
+
 ### 2.3 DataSource 예제1 - DriverManager
 ### 2.4 DataSource 예제2 - 커넥션 풀
 ### 2.5 DataSource 적용
