@@ -43,7 +43,11 @@
 3) DriverManager를 이용한 회원 등록 기능 구현(MemberRepositoryV0)
 4) 회원 등록 기능 테스트(MemberRepositoryV0Test)
 
-### 1.7 JDBC 개발 - 조회
+### <a href="Chapter 01. JDBC 이해/1.7 JDBC 개발 - 조회.md" target="_blank">1.7 JDBC 개발 - 조회</a>
+1) DriverManager를 이용한 회원 조회 기능 구현(MemberRepositoryV0)
+2) ResultSet의 내부 구조 및 사용 방법
+3) 회원 등록, 조회 테스트(MemberRepositoryV0Test)
+
 ### 1.8 JDBC 개발 - 수정, 삭제
 
 ---
