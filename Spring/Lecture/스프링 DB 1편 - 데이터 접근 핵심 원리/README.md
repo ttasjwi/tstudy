@@ -48,8 +48,15 @@
 
 ---
 
-## Chapter 02. 커넥션풀과 데이터소스 이해
-### 2.1 커넥션 풀 이해
+## Chapter 02. 커넥션 풀과 DataSource 이해
+### <a href="Chapter 02. 커넥션 풀과 DataSource 이해/2.1 커넥션 풀 이해.md" target="_blank">2.1 커넥션 풀 이해</a>
+1) 도입 배경 : 데이터베이스 커넥션을 매번 획득하는 방식
+2) 커넥션 풀 : 미리 커넥션을 생성해두고 보관
+3) 언제든 DB에 SQL을 즉시 전달 가능
+4) 커넥션 대여과 반환
+5) 커넥션의 수
+6) 커넥션 풀 라이브러리
+
 ### 2.2 DataSource 이해
 ### 2.3 DataSource 예제1 - DriverManager
 ### 2.4 DataSource 예제2 - 커넥션 풀
