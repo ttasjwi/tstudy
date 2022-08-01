@@ -78,7 +78,10 @@
 3) DriverManager vs DriverManagerDataSource
 4) 설정과 사용의 분리
 
-### 2.4 DataSource 예제2 - 커넥션 풀
+### <a href="Chapter 02. 커넥션 풀과 DataSource 이해/2.4 DataSource 예제2 - 커넥션 풀.md" target="_blank">2.4 DataSource 예제2 - 커넥션 풀</a>
+1) (실습) HikariDataSource를 통해 커넥션 획득
+2) (실습) HikariDataSource를 통해 커넥션 획득 - 실행 로그 분석
+
 ### 2.5 DataSource 적용
 
 ---
