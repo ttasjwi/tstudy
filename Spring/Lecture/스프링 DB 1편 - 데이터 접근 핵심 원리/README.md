@@ -72,7 +72,12 @@
 4) 커넥션 풀 라이브러리들은 이미 DataSource를 구현함
 5) DriverManagerDataSource : Spring의 지원
 
-### 2.3 DataSource 예제1 - DriverManager
+### <a href="Chapter 02. 커넥션 풀과 DataSource 이해/2.3 DataSource 예제1 - DriverManager.md" target="_blank">2.3 DataSource 예제1 - DriverManager</a>
+1) (실습) DriverManager를 통해 커넥션 획득
+2) (실습) DriverManagerDataSource를 통해 커넥션 획득
+3) DriverManager vs DriverManagerDataSource
+4) 설정과 사용의 분리
+
 ### 2.4 DataSource 예제2 - 커넥션 풀
 ### 2.5 DataSource 적용
 
