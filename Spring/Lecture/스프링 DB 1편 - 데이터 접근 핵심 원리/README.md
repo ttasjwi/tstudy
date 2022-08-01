@@ -82,7 +82,11 @@
 1) (실습) HikariDataSource를 통해 커넥션 획득
 2) (실습) HikariDataSource를 통해 커넥션 획득 - 실행 로그 분석
 
-### 2.5 DataSource 적용
+### <a href="Chapter 02. 커넥션 풀과 DataSource 이해/2.5 DataSource 적용.md" target="_blank">2.5 DataSource 적용</a>
+1) DataSource 의존관계 주입 - MemberRepositoryV1
+2) 자원 반환 - JdbcUtils
+3) 리포지토리 테스트 - MemberRepositoryV1Test
+4) DataSource 의존의 이점 : DI, OCP
 
 ---
 
