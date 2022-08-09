@@ -318,6 +318,11 @@
 2) (실습) MemberServiceV4Test - 수정
 3) 결론 : DB 예외의 추상화, 특정 기술 종속성 제거
 
-### 6.6 JDBC 반복 문제 해결 - JdbcTemplate
+### <a href="Chapter 06. 스프링과 문제 해결 - 예외 처리, 반복/6.6 JDBC 반복 문제 해결 - JdbcTemplate.md" target="_blank">6.6 JDBC 반복 문제 해결 - JdbcTemplate</a>
+1) 남아있는 문제 : Jdbc 반복 문제
+2) 템플릿 콜백 패턴과 JdbcTemplate
+3) (실습) JdbcTemplate 도입 - MemberRepositoryV5
+4) (실습) MemberServiceV4Test
+5) 완성된 코드 : 서비스 계층의 순수성 + 중복코드 제거
 
 ---
