@@ -313,7 +313,11 @@
 5) 스프링은 ErrorCode를 읽고 추상화된 예외로 변환한다. : `sql-error-codes.xml`
 6) 결론 : 스프링의 공통화된 예외 추상화, 특정 기술 종속성 제거
 
-### 6.5 스프링 예외 추상화 적용
+### <a href="Chapter 06. 스프링과 문제 해결 - 예외 처리, 반복/6.5 스프링 예외 추상화 적용.md" target="_blank">6.5 스프링 예외 추상화 적용</a>
+1) (실습) SQLException을 스프링 예외로 변환 - MemberRepository_V4_2
+2) (실습) MemberServiceV4Test - 수정
+3) 결론 : DB 예외의 추상화, 특정 기술 종속성 제거
+
 ### 6.6 JDBC 반복 문제 해결 - JdbcTemplate
 
 ---
