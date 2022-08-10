@@ -42,15 +42,20 @@
 ---
 
 ## Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate
-- 2.1 JdbcTemplate 소개와 설정
-- 2.2 JdbcTemplate 적용1 - 기본
-- 2.3 JdbcTemplate 적용2 - 동적 쿼리 문제
-- 2.4 JdbcTemplate 적용3 - 구성과 실행
-- 2.5 JdbcTemplate - 이름 지정 파라미터 1
-- 2.6 JdbcTemplate - 이름 지정 파라미터 2
-- 2.7 JdbcTemplate - 이름 지정 파라미터 3 
-- 2.8 JdbcTemplate - SimpleJdbcInsert
-- 2.9 JdbcTemplate 기능 정리
+### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.1 JdbcTemplate 소개와 설정.md" target="_blank">2.1 JdbcTemplate 소개와 설정</a>
+1) 설정이 편리하다.
+2) 순수 Jdbc의 반복 문제를 해결했다.
+3) 단점 : SQL 작성의 수고, 난해한 동적 SQL
+4) 의존 라이브러리 추가(spring-jdbc, H2 데이터베이스 드라이버)
+
+### 2.2 JdbcTemplate 적용1 - 기본
+### 2.3 JdbcTemplate 적용2 - 동적 쿼리 문제
+### 2.4 JdbcTemplate 적용3 - 구성과 실행
+### 2.5 JdbcTemplate - 이름 지정 파라미터 1
+### 2.6 JdbcTemplate - 이름 지정 파라미터 2
+### 2.7 JdbcTemplate - 이름 지정 파라미터 3 
+### 2.8 JdbcTemplate - SimpleJdbcInsert
+### 2.9 JdbcTemplate 기능 정리
 
 ---
 
