@@ -21,7 +21,13 @@
 4) 서비스 분석(ItemService, ItemServiceV1)
 5) DTO는 무엇이고 어디에 두어야할까?
 
-### 1.4 프로젝트 구조 설명2 - 설정
+### <a href="Chapter 01. 데이터 접근 기술 - 시작/1.4 프로젝트 구조 설명2 - 설정.md" target="_blank">1.4 프로젝트 구조 설명2 - 설정</a>
+1) 메모리 리포지토리, 서비스 수동 빈 등록 - MemoryConfig
+2) 확인용 초기 데이터 삽입 - TestDataInit
+3) 메인 실행 클래스 - ItemServiceApplication
+4) 스프링 프로필(Profile)
+5) 스프링 테스트 프로필
+
 ### 1.5 프로젝트 구조 설명3 - 테스트
 ### 1.6 데이터베이스 테이블 생성
 
