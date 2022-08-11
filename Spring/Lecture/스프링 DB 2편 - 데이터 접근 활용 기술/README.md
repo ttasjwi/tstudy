@@ -48,7 +48,14 @@
 3) 단점 : SQL 작성의 수고, 난해한 동적 SQL
 4) 의존 라이브러리 추가(spring-jdbc, H2 데이터베이스 드라이버)
 
-### 2.2 JdbcTemplate 적용1 - 기본
+### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.2 JdbcTemplate 적용1 - 기본.md" target="_blank">2.2 JdbcTemplate 적용1 - 기본</a>
+1) JdbcTemplateRepositoryV1 - JdbcTemplate 사용
+2) 데이터 저장 기능 - save()
+3) 데이터 갱신 기능 - update()
+4) 데이터 단건 조회 기능 - findById()
+5) 데이터 검색 기능 - findAll() : 동적 쿼리
+6) RowMapper : 조회 결과를 객체로 바인딩
+
 ### 2.3 JdbcTemplate 적용2 - 동적 쿼리 문제
 ### 2.4 JdbcTemplate 적용3 - 구성과 실행
 ### 2.5 JdbcTemplate - 이름 지정 파라미터 1
