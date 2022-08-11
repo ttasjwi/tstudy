@@ -56,7 +56,9 @@
 5) 데이터 검색 기능 - findAll() : 동적 쿼리
 6) RowMapper : 조회 결과를 객체로 바인딩
 
-### 2.3 JdbcTemplate 적용2 - 동적 쿼리 문제
+### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.3 JdbcTemplate 적용2 - 동적 쿼리 문제.md" target="_blank">2.3 JdbcTemplate 적용2 - 동적 쿼리 문제</a>
+1) JdbcTemplate 기술의 한계 - 동적 쿼리 문제
+
 ### 2.4 JdbcTemplate 적용3 - 구성과 실행
 ### 2.5 JdbcTemplate - 이름 지정 파라미터 1
 ### 2.6 JdbcTemplate - 이름 지정 파라미터 2
