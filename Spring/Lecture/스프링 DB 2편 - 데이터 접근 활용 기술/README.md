@@ -65,7 +65,12 @@
 3) 실행 확인
 4) JdbcTemplate SQL 로그 확인 - 로깅 설정
 
-### 2.5 JdbcTemplate - 이름 지정 파라미터 1
+### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.5 JdbcTemplate - 이름 지정 파라미터 1.md" target="_blank">2.5 JdbcTemplate - 이름 지정 파라미터 1</a>
+1) 순서기반 파라미터 바인딩의 문제점
+2) JdbcTemplateRepositoryV2 - NamedParameterJdbcTemplate 사용(이름 기반 바인딩)
+3) sql에 파라미터 기입
+4) Insert 후 데이터베이스 생성 키를 쉽게 조회 가능
+
 ### 2.6 JdbcTemplate - 이름 지정 파라미터 2
 ### 2.7 JdbcTemplate - 이름 지정 파라미터 3 
 ### 2.8 JdbcTemplate - SimpleJdbcInsert
