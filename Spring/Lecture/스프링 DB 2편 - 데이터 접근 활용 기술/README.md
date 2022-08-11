@@ -59,7 +59,12 @@
 ### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.3 JdbcTemplate 적용2 - 동적 쿼리 문제.md" target="_blank">2.3 JdbcTemplate 적용2 - 동적 쿼리 문제</a>
 1) JdbcTemplate 기술의 한계 - 동적 쿼리 문제
 
-### 2.4 JdbcTemplate 적용3 - 구성과 실행
+### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.4 JdbcTemplate 적용3 - 구성과 실행.md" target="_blank">2.4 JdbcTemplate 적용3 - 구성과 실행</a>
+1) 리포지토리 설정 변경 - JdbcTemplateV1Config
+2) 데이터베이스 접근 설정 : datasource 설정
+3) 실행 확인
+4) JdbcTemplate SQL 로그 확인 - 로깅 설정
+
 ### 2.5 JdbcTemplate - 이름 지정 파라미터 1
 ### 2.6 JdbcTemplate - 이름 지정 파라미터 2
 ### 2.7 JdbcTemplate - 이름 지정 파라미터 3 
