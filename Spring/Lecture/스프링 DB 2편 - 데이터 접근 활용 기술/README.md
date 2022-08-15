@@ -71,7 +71,13 @@
 3) sql에 파라미터 기입
 4) Insert 후 데이터베이스 생성 키를 쉽게 조회 가능
 
-### 2.6 JdbcTemplate - 이름 지정 파라미터 2
+### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.6 JdbcTemplate - 이름 지정 파라미터 2.md" target="_blank">2.6 JdbcTemplate - 이름 지정 파라미터 2</a>
+1) 이름 지정 파라미터 전달 방법들
+2) Map을 통한 파라미터 전달
+3) MapSqlParameterSource를 통한 파라미터 전달
+4) BeanPropertySqlParameterSource을 통한 파라미터 전달
+5) 조회 결과 바인딩 - BeanPropertyRowMapper
+
 ### 2.7 JdbcTemplate - 이름 지정 파라미터 3 
 ### 2.8 JdbcTemplate - SimpleJdbcInsert
 ### 2.9 JdbcTemplate 기능 정리
