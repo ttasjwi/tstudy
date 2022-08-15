@@ -89,7 +89,13 @@
 4) 리포지토리 설정 변경 - JdbcTemplateV3Config
 5) 실행 확인
 
-### 2.9 JdbcTemplate 기능 정리
+### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.9 JdbcTemplate 기능 정리.md" target="_blank">2.9 JdbcTemplate 기능 정리</a>
+1) JdbcTemplate의 주요 클래스
+2) JdbcTemplate - 조회
+3) JdbcTemplate - 변경(INSERT, UPDATE, DELETE)
+4) JdbcTemplate - 기타 기능(DDL, 스토어드 프로시저 호출 등)
+5) 실무 : SQL 직접 작성이 필요하면 JdbcTemplate
+6) JdbcTemplate의 한계 - 동적쿼리
 
 ---
 
