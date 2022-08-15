@@ -82,7 +82,13 @@
 1) 리포지토리 설정 변경 - JdbcTemplateV2Config
 2) 실행 확인
 
-### 2.8 JdbcTemplate - SimpleJdbcInsert
+### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.8 JdbcTemplate - SimpleJdbcInsert.md" target="_blank">2.8 JdbcTemplate - SimpleJdbcInsert</a>
+1) JdbcTemplateRepositoryV3 - SimpleJdbcInsert 추가
+2) `save()` 수정 - SimpleJdbcInsert 적용
+3) SimpleJdbcInsert 로깅 확인
+4) 리포지토리 설정 변경 - JdbcTemplateV3Config
+5) 실행 확인
+
 ### 2.9 JdbcTemplate 기능 정리
 
 ---
