@@ -78,7 +78,10 @@
 4) BeanPropertySqlParameterSource을 통한 파라미터 전달
 5) 조회 결과 바인딩 - BeanPropertyRowMapper
 
-### 2.7 JdbcTemplate - 이름 지정 파라미터 3 
+### <a href="Chapter 02. 데이터 접근 기술 - 스프링 JdbcTemplate/2.7 JdbcTemplate - 이름 지정 파라미터 3.md" target="_blank">2.7 JdbcTemplate - 이름 지정 파라미터 3</a>
+1) 리포지토리 설정 변경 - JdbcTemplateV2Config
+2) 실행 확인
+
 ### 2.8 JdbcTemplate - SimpleJdbcInsert
 ### 2.9 JdbcTemplate 기능 정리
 
