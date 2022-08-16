@@ -116,7 +116,13 @@
 2) 테스트에 트랜잭션 추가
 3) 테스트 반복 실행
 
-### 3.4 테스트 - @Transactional
+### <a href="Chapter 03. 데이터 접근 기술 - 테스트/3.4 테스트 - @Transactional.md" target="_blank">3.4 테스트 - @Transactional</a>
+1) 테스트 코드에 `@Transactional` 적용
+2) `@Transactional`의 동작 원리
+3) 테스트 트랜잭션의 전파
+4) 테스트 코드에 트랜잭션을 도입함으로서 얻은 이득
+5) 강제로 테스트코드 커밋하기 - `@Commit`
+
 ### 3.5 테스트 - 임베디드 모드 DB
 ### 3.6 테스트 - 스프링 부트와 임베디드 모드
 
