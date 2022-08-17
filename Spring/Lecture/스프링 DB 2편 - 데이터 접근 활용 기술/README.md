@@ -146,7 +146,10 @@
 5) JdbcTemplate vs MyBatis
 6) MyBatis 공식 사이트(메뉴얼)
 
-### 4.2 MyBatis 설정
+### <a href="Chapter 04. 데이터 접근 기술 - MyBatis/4.2 MyBatis 설정.md" target="_blank">4.2 MyBatis 설정</a>
+1) `build.gradle`에 MyBatis 의존관계 추가
+2) `application.properties`에 MyBatis 설정 추가
+
 ### 4.3 MyBatis 적용1 - 기본
 ### 4.4 MyBatis 적용2 - 설정과 실행
 ### 4.5 MyBatis 적용3 - 분석
