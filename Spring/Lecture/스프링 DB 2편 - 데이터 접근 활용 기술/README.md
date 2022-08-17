@@ -163,7 +163,10 @@
 2) 리포지토리 설정 변경 - MyBatisConfig
 3) 테스트 및 애플리케이션 실행
 
-### 4.5 MyBatis 적용3 - 분석
+### <a href="Chapter 04. 데이터 접근 기술 - MyBatis/4.5 MyBatis 적용3 - 분석.md" target="_blank">4.5 MyBatis 적용3 - 분석</a>
+1) Mapper 구현체 생성 및 스프링 빈 등록 원리
+2) MyBatis 스프링 연동 모듈과 Mapper 구현체
+
 ### 4.6 MyBatis 기능 정리1 - 동적 쿼리
 ### 4.7 MyBatis 기능 정리2 - 기타 기능
 
