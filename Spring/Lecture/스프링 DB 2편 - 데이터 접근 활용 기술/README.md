@@ -150,7 +150,14 @@
 1) `build.gradle`에 MyBatis 의존관계 추가
 2) `application.properties`에 MyBatis 설정 추가
 
-### 4.3 MyBatis 적용1 - 기본
+### <a href="Chapter 04. 데이터 접근 기술 - MyBatis/4.3 MyBatis 적용1 - 기본.md" target="_blank">4.3 MyBatis 적용1 - 기본</a>
+1) Mapper 인터페이스 생성
+2) XML 경로 설정
+3) XML 작성
+4) 기본 SQL 매핑법
+5) 동적쿼리 작성
+6) XML 특수 문자 처리
+
 ### 4.4 MyBatis 적용2 - 설정과 실행
 ### 4.5 MyBatis 적용3 - 분석
 ### 4.6 MyBatis 기능 정리1 - 동적 쿼리
