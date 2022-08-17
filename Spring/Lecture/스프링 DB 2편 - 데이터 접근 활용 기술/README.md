@@ -158,7 +158,11 @@
 5) 동적쿼리 작성
 6) XML 특수 문자 처리
 
-### 4.4 MyBatis 적용2 - 설정과 실행
+### <a href="Chapter 04. 데이터 접근 기술 - MyBatis/4.4 MyBatis 적용2 - 설정과 실행.md" target="_blank">4.4 MyBatis 적용2 - 설정과 실행</a>
+1) MyBatisItemRepository - MyBatis 적용
+2) 리포지토리 설정 변경 - MyBatisConfig
+3) 테스트 및 애플리케이션 실행
+
 ### 4.5 MyBatis 적용3 - 분석
 ### 4.6 MyBatis 기능 정리1 - 동적 쿼리
 ### 4.7 MyBatis 기능 정리2 - 기타 기능
