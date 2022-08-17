@@ -183,7 +183,11 @@
 ---
 
 ## Chapter 05. 데이터 접근 기술 - JPA
-### 5.1 JPA 시작
+### <a href="Chapter 05. 데이터 접근 기술 - JPA/5.1 JPA 시작.md" target="_blank">5.1 JPA 시작</a>
+1) ORM(Object Relational Mapping)
+2) JPA는 자바의 핵심 ORM 데이터 기술이다
+3) 실무 : JPA + Spring Data JPA + Querydsl
+
 ### 5.2 ORM 개념1 - SQL 중심적인 개발의 문제점
 ### 5.3 ORM 개념2 - JPA 소개
 ### 5.4 JPA 설정
