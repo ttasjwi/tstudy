@@ -138,7 +138,14 @@
 ---
 
 ## Chapter 04. 데이터 접근 기술 - MyBatis
-### 4.1 MyBatis 소개
+### <a href="Chapter 04. 데이터 접근 기술 - MyBatis/4.1 MyBatis 소개.md" target="_blank">4.1 MyBatis 소개</a>
+1) MyBatis란?
+2) SQL을 XML로 작성
+3) 동적 쿼리를 편리하게 작성
+4) 단점 : 약간의 설정이 필요하다.
+5) JdbcTemplate vs MyBatis
+6) MyBatis 공식 사이트(메뉴얼)
+
 ### 4.2 MyBatis 설정
 ### 4.3 MyBatis 적용1 - 기본
 ### 4.4 MyBatis 적용2 - 설정과 실행
