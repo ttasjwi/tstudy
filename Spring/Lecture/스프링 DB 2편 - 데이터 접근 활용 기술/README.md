@@ -174,7 +174,11 @@
 4) where, set, trim
 5) foreach
 
-### 4.7 MyBatis 기능 정리2 - 기타 기능
+### <a href="Chapter 04. 데이터 접근 기술 - MyBatis/4.7 MyBatis 기능 정리2 - 기타 기능.md" target="_blank">4.7 MyBatis 기능 정리2 - 기타 기능</a>
+1) 어노테이션으로 SQL 작성
+2) 문자열 대체(String Substitution)
+3) 재사용 가능한 SQL 조각
+4) 조회 결과를 매핑하는 여러가지 방법들
 
 ---
 
