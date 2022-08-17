@@ -167,7 +167,13 @@
 1) Mapper 구현체 생성 및 스프링 빈 등록 원리
 2) MyBatis 스프링 연동 모듈과 Mapper 구현체
 
-### 4.6 MyBatis 기능 정리1 - 동적 쿼리
+### <a href="Chapter 04. 데이터 접근 기술 - MyBatis/4.6 MyBatis 기능 정리1 - 동적 쿼리.md" target="_blank">4.6 MyBatis 기능 정리1 - 동적 쿼리</a>
+1) MyBatis 관련 메뉴얼
+2) MyBatis 동적 SQL 상세 기능
+3) if / choose, when, otherwise
+4) where, set, trim
+5) foreach
+
 ### 4.7 MyBatis 기능 정리2 - 기타 기능
 
 ---
