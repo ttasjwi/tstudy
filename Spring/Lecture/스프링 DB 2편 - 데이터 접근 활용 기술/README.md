@@ -189,8 +189,13 @@
 3) 실무 : JPA + Spring Data JPA + Querydsl
 
 ### 5.2 ORM 개념1 - SQL 중심적인 개발의 문제점
+
 ### 5.3 ORM 개념2 - JPA 소개
-### 5.4 JPA 설정
+
+### <a href="Chapter 05. 데이터 접근 기술 - JPA/5.4 JPA 설정.md" target="_blank">5.4 JPA 설정</a>
+1) `build.gradle`에 Spring Data JPA 의존관계 추가
+2) `application.properties`에 로깅설정 추가
+
 ### 5.5 JPA 적용1 - 개발
 ### 5.6 JPA 적용2 - 리포지토리 분석
 ### 5.7 JPA 적용3 - 예외 변환
