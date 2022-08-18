@@ -196,7 +196,14 @@
 1) `build.gradle`에 Spring Data JPA 의존관계 추가
 2) `application.properties`에 로깅설정 추가
 
-### 5.5 JPA 적용1 - 개발
+### <a href="Chapter 05. 데이터 접근 기술 - JPA/5.5 JPA 적용1 - 개발.md" target="_blank">5.5 JPA 적용1 - 개발</a>
+1) 객체 - ORM 매핑
+2) 주의점 : 기본생성자 필수
+3) 순수 JPA 리포지토리 생성 - JpaItemRepositoryV1
+4) 스프링부트의 JPA 자동 설정
+5) 리포지토리 설정 변경 - JpaConfig
+6) 테스트 및 애플리케이션 실행
+
 ### 5.6 JPA 적용2 - 리포지토리 분석
 ### 5.7 JPA 적용3 - 예외 변환
 
