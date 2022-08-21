@@ -9,14 +9,16 @@
 1) Python 다운로드
 2) Python 설치
 3) PyCharm 다운
-### 1.3 이 책에서 자주 나오는 파이썬 용어들
-1) 문장
-2) 표현식
-3) 키워드
-4) 식별자
-5) 주석
-6) 연산자와 자료
-7) 출력 : `print()`
+### <a href="Chapter 01. 파이썬 시작하기/1.3 이 책에서 자주 나오는 파이썬 용어들.md" target="_blank">1.3 이 책에서 자주 나오는 파이썬 용어들</a>
+1) 값
+2) 리터럴(literal)
+3) 문(statement)
+4) 표현식(expression)
+5) 연산자(operator)
+6) 키워드(keyword)
+7) 식별자(identifier)
+8) 주석
+9) 출력 : `print()`
 
 ---
 
