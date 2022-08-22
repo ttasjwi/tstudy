@@ -226,7 +226,12 @@
 2) 쿼리 메서드 기능
 3) 어노테이션을 통해 JPQL 직접 사용하기 : `@Query`
 
-### 6.4 스프링 데이터 JPA 적용1
+### <a href="Chapter 06. 데이터 접근 기술 - 스프링 데이터 JPA/6.4 스프링 데이터 JPA 적용1.md" target="_blank">6.4 스프링 데이터 JPA 적용1</a>
+1) 설정 - `build.gradle`
+2) Spring Data Jpa 인터페이스 - SpringDataJpaItemRepository
+3) 쿼리 메서드 기능 적용
+4) 어노테이션을 통해 JPQL을 직접 작성하는 기능 적용
+
 ### 6.5 스프링 데이터 JPA 적용2
 
 ---
