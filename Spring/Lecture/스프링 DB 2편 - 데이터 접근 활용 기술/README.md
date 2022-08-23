@@ -273,7 +273,15 @@
 3) 객체 의존관계를 변경할 때 : 단순한 구조와 개발 편의성
 4) 트레이드 오프
 
-### 8.2 실용적인 구조
+### <a href="Chapter 08. 데이터 접근 기술 - 활용 방안/8.2 실용적인 구조.md" target="_blank">8.2 실용적인 구조</a>
+1) 스프링 데이터 JPA + Querydsl
+2) ItemRepositoryV2 : 스프링 데이터 JPA
+3) ItemQueryRepositoryV2 : Querydsl
+4) ItemServiceV2
+5) 서비스, 리포지토리 설정 변경 - V2Config
+6) 테스트 및 애플리케이션 실행
+7) 다른 방안 : 커스텀 리포지토리
+
 ### 8.3 다양한 데이터 접근 기술 조합
 
 ---
