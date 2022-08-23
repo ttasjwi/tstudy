@@ -246,7 +246,14 @@
 
 ### 7.1 Querydsl 소개1 - 기존 방식의 문제점
 ### 7.2 Querydsl 소개2 - 해결
-### 7.3 Querydsl 설정
+
+### <a href="Chapter 07. 데이터 접근 기술 - Querydsl/7.3 Querydsl 설정.md" target="_blank">7.3 Querydsl 설정</a>
+1) `build.gradle` 의존성 추가
+2) Build Tools 설정
+3) Gradle 방식 - Q타입 생성 확인 방법
+4) IntelliJ IDEA 방식 - Q타입 생성 확인
+5) 각 버전마다 설정이 조금씩 다르다.
+
 ### 7.4 Querydsl 적용
 
 ---
