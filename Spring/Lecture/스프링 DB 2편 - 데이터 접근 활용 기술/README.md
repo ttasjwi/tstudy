@@ -299,7 +299,9 @@
 5) 스프링이 제공하는 트랜잭션 AOP : `@Transactional`
 
 ### <a href="Chapter 09. 스프링 트랜잭션 이해/9.02 프로젝트 생성.md" target="_blank">9.02 프로젝트 생성</a>
-작성 중
+1) 스프링 프로젝트 생성
+2) `build.gradle` 설정 변경
+3) 동작 확인
 
 ### <a href="Chapter 09. 스프링 트랜잭션 이해/9.03 트랜잭션 적용 확인.md" target="_blank">9.03 트랜잭션 적용 확인</a>
 작성 중
