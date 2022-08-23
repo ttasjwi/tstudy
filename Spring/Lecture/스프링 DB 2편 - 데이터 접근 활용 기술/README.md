@@ -254,7 +254,15 @@
 4) IntelliJ IDEA 방식 - Q타입 생성 확인
 5) 각 버전마다 설정이 조금씩 다르다.
 
-### 7.4 Querydsl 적용
+### <a href="Chapter 07. 데이터 접근 기술 - Querydsl/7.4 Querydsl 적용.md" target="_blank">7.4 Querydsl 적용</a>
+1) JpaItemRepositoryV3 - Querydsl 적용
+2) `save()`, `update()`, `findById()`
+3) `findAllOld()` - BooleanBuilder를 활용한 동적쿼리
+4) `findAll()` - BooleanExpression을 활용한 동적쿼리 작성
+5) Querydsl은 예외 변환을 지원하지 않는다.
+6) 리포지토리 설정 변경 - QuerydslConfig
+7) 테스트 및 애플리케이션 실행
+8) Querydsl의 장단점
 
 ---
 
