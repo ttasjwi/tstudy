@@ -336,7 +336,14 @@
 2) 대안 : `ApplicationReadyEvent` 이벤트를 사용
 
 ### <a href="Chapter 09. 스프링 트랜잭션 이해/9.08 트랜잭션 옵션 소개.md" target="_blank">9.08 트랜잭션 옵션 소개</a>
-작성 
+1) `value`, `transactionManager` : 트랜잭션 매니저 지정
+2) `rollbackFor` : 롤백 예외 추가
+3) `noRollbackFor` : 롤백하면 안 되는 예외 지정
+4) `propagation` : 트랜잭션 전파
+5) `isolation` : 격리 수준
+6) `timeout` : 트랜잭션 타임아웃 설정
+7) `label` : 값을 넘겨서 특정한 동작을 하고 싶을 때
+8) `readOnly` : 읽기 전용 여부, 성능 최적화
 
 ### <a href="Chapter 09. 스프링 트랜잭션 이해/9.09 예외와 트랜잭션 커밋, 롤백 - 기본.md" target="_blank">9.09 예외와 트랜잭션 커밋, 롤백 - 기본</a>
 작성 중
