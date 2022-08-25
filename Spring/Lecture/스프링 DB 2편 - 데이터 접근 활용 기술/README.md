@@ -332,7 +332,8 @@
 3) public 메서드만 트랜잭션이 적용된다.
 
 ### <a href="Chapter 09. 스프링 트랜잭션 이해/9.07 트랜잭션 AOP 주의 사항 - 초기화 시점.md" target="_blank">9.07 트랜잭션 AOP 주의 사항 - 초기화 시점</a>
-작성 중
+1) `@PostConstructor`과 `@Transactional`을 함께 적용할 수 없다.
+2) 대안 : `ApplicationReadyEvent` 이벤트를 사용
 
 ### <a href="Chapter 09. 스프링 트랜잭션 이해/9.08 트랜잭션 옵션 소개.md" target="_blank">9.08 트랜잭션 옵션 소개</a>
 작성 
