@@ -87,6 +87,7 @@
 2) 자원 반환 - JdbcUtils
 3) 리포지토리 테스트 - MemberRepositoryV1Test
 4) DataSource 의존의 이점 : DI, OCP
+5) 커넥션 풀 : 실제 커넥션과 프록시 커넥션
 
 ---
 
