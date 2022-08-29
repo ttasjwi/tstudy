@@ -453,6 +453,10 @@
 4) 내부 롤백(`readOnly`), 외부 커밋 → 물리 롤백, `UnexpectedRollbackException` 발생
 
 ### <a href="Chapter 11. 스프링 트랜잭션 전파2 - 활용/11.7 트랜잭션 전파 활용7 - 복구 REQUIRES_NEW.md" target="_blank">11.7 트랜잭션 전파 활용7 - 복구 REQUIRES_NEW</a>
-작성 예정
+1) 물리 트랜잭션 분리(`REQUIRES_NEW`) 적용
+2) 물리 트랜잭션이 분리됐으므로 외부 트랜잭션이 롤백되지 않는다.
+3) 상세 분석 - `REQUIRES_NEW`
+4) 다만, `REQUIRES_NEW` 를 사용하면 데이터베이스 커넥션 비용이 비싸다.
+5) 대안 : 퍼사드 패턴(Facade Pattern)
 
 ---
