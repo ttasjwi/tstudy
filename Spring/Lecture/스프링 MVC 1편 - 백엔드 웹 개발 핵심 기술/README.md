@@ -70,7 +70,9 @@
 5) 기타 - 클라이언트측, 서버측 정보 조회 (remote, local)
 
 ### <a href="Chapter 02. 서블릿/2.05 Http 요청 데이터 - 개요.md" target="_blank">2.05 Http 요청 데이터 - 개요</a>
-작성 예정
+1) GET - 쿼리 파라미터
+2) POST - HTML Form
+3) HTTP message body에 데이터를 직접 담아서 요청
 
 ### <a href="Chapter 02. 서블릿/2.06 Http 요청 데이터 - GET 쿼리 파라미터.md" target="_blank">2.06 Http 요청 데이터 - GET 쿼리 파라미터</a>
 작성 예정
