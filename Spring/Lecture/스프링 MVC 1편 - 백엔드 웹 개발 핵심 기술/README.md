@@ -63,7 +63,11 @@
 5) 결국 Http 스펙에 대한 이해가 중요
 
 ### <a href="Chapter 02. 서블릿/2.04 HttpServletRequest - 기본 사용법.md" target="_blank">2.04 HttpServletRequest - 기본 사용법</a>
-작성 예정
+1) 실습용 서블릿 생성 - `RequestHeaderServlet`
+2) RequestLine 정보
+3) 모든 요청 헤더, 요청 헤더 확인하기
+4) 요청 헤더 관련 편의 메서드들
+5) 기타 - 클라이언트측, 서버측 정보 조회 (remote, local)
 
 ### <a href="Chapter 02. 서블릿/2.05 Http 요청 데이터 - 개요.md" target="_blank">2.05 Http 요청 데이터 - 개요</a>
 작성 예정
