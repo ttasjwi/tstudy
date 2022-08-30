@@ -20,7 +20,10 @@
 2) 세부 요구사항 및 예시
 
 ### <a href="Chapter 01. 예제 만들기/1.4 로그 추적기 V1 - 프로토타입 개발.md">1.4 로그 추적기 V1 - 프로토타입 개발</a>
-작성 예정
+1) TraceId - 트랜잭션의 Id, 깊이
+2) TraceStatus : 로그의 상태 정보
+3) HelloTraceV1 : 프로토타입 로그 추적기
+4) HelloTraceV1Test : 테스트
 
 ### <a href="Chapter 01. 예제 만들기/1.5 로그 추적기 V1 - 적용.md">1.5 로그 추적기 V1 - 적용</a>
 작성 예정
