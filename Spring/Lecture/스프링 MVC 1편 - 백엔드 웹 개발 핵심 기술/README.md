@@ -47,7 +47,13 @@
 3) Postman 설치 (API 호출)
 
 ### <a href="Chapter 02. 서블릿/2.02 Hello 서블릿.md" target="_blank">2.02 Hello 서블릿</a>
-작성 예정
+1) 기본적인 서블릿 환경 구성 방법
+2) 스프링 부트에서 서블릿 자동 스캔 : `@ServletComponentScan`
+3) 서블릿 등록하기 : `@WebServlet`, `extends HttpServlet`
+4) 서블릿 실행하기
+5) Http 요청 메시지 전체를 로깅하는 방법
+6) 서블릿 컨테이너 동작 방식 설명
+7) welcome 페이지 추가
 
 ### <a href="Chapter 02. 서블릿/2.03 HttpServletRequest - 개요.md" target="_blank">2.03 HttpServletRequest - 개요</a>
 1) HttpServletRequest
