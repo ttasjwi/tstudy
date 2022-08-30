@@ -10,7 +10,10 @@
 3) 실행 확인
 
 ### <a href="Chapter 01. 예제 만들기/1.2 예제 프로젝트 만들기 - V0.md">1.2 예제 프로젝트 만들기 - V0</a>
-작성 예정
+1) `OrderRepositoryV0` : 리포지토리
+2) `OrderServiceV0` : 서비스
+3) `OrderControllerV0` : 컨트롤러
+4) 실행 확인
 
 ### <a href="Chapter 01. 예제 만들기/1.3 로그 추적기 - 요구사항 분석.md">1.3 로그 추적기 - 요구사항 분석</a>
 작성 예정
