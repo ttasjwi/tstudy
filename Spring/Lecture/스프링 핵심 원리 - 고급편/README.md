@@ -33,7 +33,8 @@
 5) 남은 문제 : 메서드 깊이 표현, HTTP 요청 구분
 
 ### <a href="Chapter 01. 예제 만들기/1.6 로그 추적기 V2 - 파라미터로 동기화 개발.md">1.6 로그 추적기 V2 - 파라미터로 동기화 개발</a>
-작성 예정
+1) `HelloTraceV2.beginSync` : TraceId를 파라미터로 전달받아 동기화
+2) HelloTraceV2Test
 
 ### <a href="Chapter 01. 예제 만들기/1.7 로그 추적기 V2 - 적용.md">1.7 로그 추적기 V2 - 적용</a>
 작성 예정
