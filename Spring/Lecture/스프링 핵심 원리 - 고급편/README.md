@@ -65,7 +65,10 @@
 4) 동시성 문제 : 싱글톤 인스턴스의 공유 변수 동시 접근
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.4 동시성 문제 - 예제 코드.md">2.4 동시성 문제 - 예제 코드</a>
-작성중
+1) `FieldService` : `nameStore`에 `name`을 저장하고 조회하는 로직
+2) (실습) 동시성 문제 없는 코드
+3) (실습) 동시성 문제 발생 코드
+4) 동시성 문제 : 여러 스레드가 같은 인스턴스, static 필드를 변경 후 조회하면서 발생
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.5 ThreadLocal - 소개.md">2.5 ThreadLocal - 소개</a>
 작성중
