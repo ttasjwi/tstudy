@@ -54,7 +54,9 @@
 5) `FieldLogTraceTest` : 필드 로그 추적기 테스트
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.2 필드 동기화 - 적용.md">2.2 필드 동기화 - 적용</a>
-작성중
+1) `LogTraceConfig` : `LogTrace`를 수동 빈 등록할 `Configuration`
+2) `v2` -> `v3` 코드 수정
+3) 실행 및 로그 분석
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.3 필드 동기화 - 동시성 문제.md">2.3 필드 동기화 - 동시성 문제</a>
 작성중
