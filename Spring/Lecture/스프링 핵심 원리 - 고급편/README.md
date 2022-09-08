@@ -71,7 +71,9 @@
 4) 동시성 문제 : 여러 스레드가 같은 인스턴스, static 필드를 변경 후 조회하면서 발생
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.5 ThreadLocal - 소개.md">2.5 ThreadLocal - 소개</a>
-작성중
+1) 기존 : 일반적인 변수 필드에 여러 스레드가 데이터를 저장하는 방식
+2) 스레드 로컬 : 각 스레드마다 할당된 특별한 저장소
+3) 스레드 로컬 : 흐름
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.6 ThreadLocal - 예제 코드.md">2.6 ThreadLocal - 예제 코드</a>
 작성중
