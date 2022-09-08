@@ -76,7 +76,9 @@
 3) 스레드 로컬 : 흐름
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.6 ThreadLocal - 예제 코드.md">2.6 ThreadLocal - 예제 코드</a>
-작성중
+1) (실습) `ThreadLocalService` : ThreadLocal에 `name`을 저장하고 조회하는 로직
+2) ThreadLocal 사용법
+3) ThreadLocalServiceTest : 동시성 문제 해결
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.7 스레드 로컬 동기화 - 개발.md">2.7 스레드 로컬 동기화 - 개발</a>
 작성중
