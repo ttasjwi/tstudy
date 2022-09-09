@@ -86,7 +86,9 @@
 3) `ThreadLocalLogTraceTest` : 테스트 실행
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.8 스레드 로컬 동기화 - 적용.md">2.8 스레드 로컬 동기화 - 적용</a>
-작성중
+1) 로그 추적기 구현체 빈을 `ThreadLocalLogTrace`로 변경
+2) 실행 확인
+3) 동시성 문제 해결 확인
 
 ### <a href="Chapter 02. 스레드 로컬 - ThreadLocal/2.9 스레드 로컬 - 주의사항.md">2.9 스레드 로컬 - 주의사항</a>
 작성중
