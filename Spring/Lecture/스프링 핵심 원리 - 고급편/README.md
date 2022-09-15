@@ -278,7 +278,12 @@
 2) 기본 예제 코드
 
 ### <a href="Chapter 05. 동적 프록시 기술/5.3 JDK 동적 프록시 - 예제 코드.md">5.3 JDK 동적 프록시 - 예제 코드</a>
-작성 중
+1) JDK 동적 프록시 기술 - `InvocationHandler` 인터페이스
+2) 실습 코드 : `TimeInvocationHandler`
+3) JDK 동적 프록시 기술 사용법 : `JdkDynamicProxyTest`
+4) JDK 동적 프록시의 실행 흐름
+5) 공통 로직을 한 곳에서 집중적으로 관리할 수 있다. (SRP)
+6) 동적 프록시 도입 전 vs 동적 프록시 도입 후
 
 ### <a href="Chapter 05. 동적 프록시 기술/5.4 JDK 동적 프록시 - 적용1.md">5.4 JDK 동적 프록시 - 적용1</a>
 작성 중
