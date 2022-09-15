@@ -317,7 +317,10 @@
 4) `Pointcut` : 특정 조건이 맞을 때만 프록시 적용
 
 ### <a href="Chapter 06. 스프링이 지원하는 프록시/6.02 프록시 팩토리 - 예제 코드1.md">6.02 프록시 팩토리 - 예제 코드1</a>
-작성 중
+1) `Advice` : MethodInterceptor(스프링이 제공하는 Advice)
+2) (실습) `Advice` 만들기 : `TimeAdvice`
+3) `ProxyFactory` 사용법 : ProxyFactoryTest
+4) `AopUtils.isXXX()` : 프록시 팩토리를 통한 프록시 적용 확인
 
 ### <a href="Chapter 06. 스프링이 지원하는 프록시/6.03 프록시 팩토리 - 예제 코드2.md">6.03 프록시 팩토리 - 예제 코드2</a>
 작성 중
