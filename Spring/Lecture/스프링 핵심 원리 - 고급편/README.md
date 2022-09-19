@@ -375,7 +375,10 @@
 1) 일반적인 빈 등록 과정 - BasicTest
 
 ### <a href="Chapter 07. 빈 후처리기/7.3 빈 후처리기 - 예제 코드2.md">7.3 빈 후처리기 - 예제 코드2</a>
-작성 중
+1) BeanPostProcessor 인터페이스 - 스프링 제공
+2) 빈 후처리기 적용 예제 - BeanPostProcessorTest
+3) `@PostConstruct` : 스프링도 자체적으로 빈 후처리기를 등록한다.
+4) 빈 후처리기 : 빈을 조작하고 변경할 수 있는 후킹 포인트
 
 ### <a href="Chapter 07. 빈 후처리기/7.4 빈 후처리기 - 적용.md">7.4 빈 후처리기 - 적용</a>
 작성 중
