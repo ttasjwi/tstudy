@@ -414,7 +414,8 @@
 
 ## Chapter 08. @Aspect AOP
 ### <a href="Chapter 08. @Aspect AOP/8.1 @Aspect 프록시 - 적용.md">8.1 @Aspect 프록시 - 적용</a>
-작성 중
+1) `@Aspect` : 어드바이저 모음, 모듈
+2) 애플리케이션에 `@Aspect` 프록시 적용 : `LogTraceAspect`
 
 ### <a href="Chapter 08. @Aspect AOP/8.2 @Aspect 프록시 - 설명.md">8.2 @Aspect 프록시 - 설명</a>
 작성 중
