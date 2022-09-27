@@ -438,7 +438,12 @@
 
 
 ### <a href="Chapter 09. 스프링 AOP 개념/9.3 AOP 적용 방식.md">9.3 AOP 적용 방식</a>
-작성 중
+1) AOP 적용 방식1 - 컴파일 시점
+2) AOP 적용 방식2 - 클래스 로딩 시점 (로드 타임 위빙)
+3) AOP 적용 방식3 - 런타임 시점(프록시)
+4) AOP 적용 방식 비교
+5) 조인 포인트 : AOP 적용 위치
+6) 선택 : AspectJ vs Spring AOP
 
 ### <a href="Chapter 09. 스프링 AOP 개념/9.4 AOP 용어 정리.md">9.4 AOP 용어 정리</a>
 작성 중
