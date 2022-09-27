@@ -432,7 +432,10 @@
 3) 부가 기능 적용 문제 : 중복 코드가 발생하고, 유지보수가 힘들다.
 
 ### <a href="Chapter 09. 스프링 AOP 개념/9.2 AOP 소개 - 애스펙트.md">9.2 AOP 소개 - 애스펙트</a>
-작성 중
+1) 애스펙트 : 부가기능 + 부가기능 적용 위치 선택 기능을 모듈화
+2) 관점 지향 프로그래밍(Aspect-Oriented Programming)
+3) AspectJ 프레임워크와 스프링 AOP
+
 
 ### <a href="Chapter 09. 스프링 AOP 개념/9.3 AOP 적용 방식.md">9.3 AOP 적용 방식</a>
 작성 중
