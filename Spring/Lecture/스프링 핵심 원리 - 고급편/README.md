@@ -488,7 +488,16 @@
 2) (실습) 애플리케이션의 어드바이스들에 순서 지정
 
 ### <a href="Chapter 10. 스프링 AOP 구현/10.8 스프링 AOP 구현6 - 어드바이스 종류.md">10.8 스프링 AOP 구현6 - 어드바이스 종류</a>
-작성 중
+1) 여러가지 어드바이스 종류
+2) (실습) 여러가지 어드바이스 종류를 애플리케이션에 적용
+3) JoinPoint, ProceedingJoinPoint : 조인 포인트에 관한 참고정보 획득
+4) `@Around` : 메서드의 실행의 주변! 가장 강력한 어드바이스.
+5) `@Before` : 조인 포인트 실행 전
+6) `@AfterReturning` : 메서드 실행이 정상적으로 반환될 때 실행
+7) `@AfterThrowing` : 메서드 실행이 예외를 던져서 종료될 때 실행
+8) `@After` : 메서드 실행이 종료될 때 무조건 실행 (≒ finally)
+9) 어드바이스 실행 순서 : `@Around`, `@Before`, `@After`, `@AfterReturning`, `@AfterThrowing`
+10) 제약을 둘수록, 애플리케이션 설계가 명확해진다.
 
 ---
 
