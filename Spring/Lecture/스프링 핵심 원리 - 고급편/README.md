@@ -513,7 +513,11 @@
 3) 실행 코드 - ExecutionTest
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.03 execution - 1.md">11.03 execution - 1</a>
-작성 중
+1) execution 문법 전체 개요
+2) 가장 정확한 포인트컷 : 포인트컷 문법 그대로 모든 것을 정확히 기입
+3) 가장 많이 생략한 포인트컷 : `*` 사용
+4) 메서드 이름 관련 포인트컷
+5) 패키지 이름 관련 포인트컷 : `.`, `..`에 주의
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.04 execution - 2.md">11.04 execution - 2</a>
 작성 중
