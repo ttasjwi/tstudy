@@ -508,7 +508,9 @@
 3) 포인트컷 지시자의 종류
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.02 예제 만들기.md">11.02 예제 만들기</a>
-작성 중
+1) 어노테이션 생성 : ClassAop, MethodAop
+2) 서비스 계층 생성 : MemberService, MemberServiceImpl
+3) 실행 코드 - ExecutionTest
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.03 execution - 1.md">11.03 execution - 1</a>
 작성 중
