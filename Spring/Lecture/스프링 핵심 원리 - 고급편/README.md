@@ -529,7 +529,8 @@
 2) `within` : 해당 타입만 매칭 가능하고, 하위 타입은 매칭되지 않는다.
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.06 args.md">11.06 args</a>
-작성 중
+1) `args` : 인자가 주어진 타입의 인스턴스(하위 포함)일 때 매칭
+2) (비교) `execution`은 파라미터 타입과 정확하게 매칭되어야 한다.
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.07 @target, @within.md">11.07 @target, @within</a>
 작성 중
