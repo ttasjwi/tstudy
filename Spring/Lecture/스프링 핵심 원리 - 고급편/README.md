@@ -533,7 +533,10 @@
 2) (비교) `execution`은 파라미터 타입과 정확하게 매칭되어야 한다.
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.07 @target, @within.md">11.07 @target, @within</a>
-작성 중
+1) `@target(...)` : 지정 어노테이션이 타입에 걸려있으면, 상위 타입 메서드까지 전부 어드바이스 적용
+2) `@within` : 지정 어노테이션이 타입에 걸려있으면, 해당 타입 메서드만 어드바이스 적용
+3) (실습) `@within`, `@target` 비교
+4) `args`, `@args`, `@target` 포인트컷 지시자는 절대 단독으로 사용해선 안 된다.
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.08 @annotation, @args.md">11.08 @annotation, @args</a>
 작성 중
