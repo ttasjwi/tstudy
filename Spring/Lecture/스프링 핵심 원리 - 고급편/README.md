@@ -539,7 +539,9 @@
 4) `args`, `@args`, `@target` 포인트컷 지시자는 절대 단독으로 사용해선 안 된다.
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.08 @annotation, @args.md">11.08 @annotation, @args</a>
-작성 중
+1) `@annotation` : 메서드가 주어진 어노테이션을 가지고 있는 조인포인트를 매칭
+2) (실습) `AtAnnotationTest`
+3) `@args` : 메서드에 전달된 실제 인수의 런타임 타입이 해당 어노테이션을 가지고 있을 때 매칭
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.09 bean.md">11.09 bean</a>
 작성 중
