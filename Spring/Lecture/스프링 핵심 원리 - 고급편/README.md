@@ -556,7 +556,10 @@
 6) `@annotation(...)` : 메서드의 어노테이션을 전달 받는다.
 
 ### <a href="Chapter 11. 스프링 AOP - 포인트컷/11.11 this, target.md">11.11 this, target</a>
-작성 중
+1) `this`, `target` : proxy, target을 대상으로 하는 조인 포인트
+2) JDK 동적 프록시와 `this`, `target`
+3) CGLIB 동적 프록시와 `this`, `target`
+4) (실습) 예제 코드를 통해 확인하기
 
 ---
 
