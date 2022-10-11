@@ -176,7 +176,12 @@
 4) 스프링의 타입 변환 - Converter 인터페이스
 
 ### <a href="Chapter 10. 스프링 타입 컨버터/10.03 타입 컨버터 - Converter.md" target="_blank">10.03 타입 컨버터 - Converter</a>
-작성 중
+1) Converter 인터페이스
+2) (실습) 기본 타입을 변환하는 Converter 만들어보기
+3) (실습) 사용자 정의 타입으로 변환하는 Converter
+4) 한 걸음 더: 타입 컨버터를 직접 등록하고 관리할 수 있다면...
+5) (참고) 스프링이 제공하는 다양한 방식의 convert 방법
+6) (참고) 스프링이 제공하는 컨버터 구현체들
 
 ### <a href="Chapter 10. 스프링 타입 컨버터/10.04 컨버전 서비스 - ConversionService.md" target="_blank">10.04 컨버전 서비스 - ConversionService</a>
 작성 중
