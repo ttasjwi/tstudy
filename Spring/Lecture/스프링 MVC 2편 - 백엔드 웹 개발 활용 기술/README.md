@@ -190,7 +190,10 @@
 3) 스프링이 사용한 객체 지향 원리 - 인터페이스 분리 원칙(ISP)
 
 ### <a href="Chapter 10. 스프링 타입 컨버터/10.05 스프링에 Converter 적용하기.md" target="_blank">10.05 스프링에 Converter 적용하기</a>
-작성 중
+1) WebConfig을 통해, Converter 추가 등록하기
+2) 컨버터를 추가하면 추가한 컨버터가 기본 컨버터보다 높은 우선순위를 가진다.
+3) (실습) IpPort 타입 변환
+4) 동작 원리 - ArgumentResolver 에서 ConversionService 사용
 
 ### <a href="Chapter 10. 스프링 타입 컨버터/10.06 뷰 템플릿에 컨버터 적용하기.md" target="_blank">10.06 뷰 템플릿에 컨버터 적용하기</a>
 작성 중
