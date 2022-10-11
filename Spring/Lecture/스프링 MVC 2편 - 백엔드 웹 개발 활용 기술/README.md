@@ -185,7 +185,9 @@
 6) (참고) 스프링이 제공하는 컨버터 구현체들
 
 ### <a href="Chapter 10. 스프링 타입 컨버터/10.04 컨버전 서비스 - ConversionService.md" target="_blank">10.04 컨버전 서비스 - ConversionService</a>
-작성 중
+1) ConversionService 인터페이스
+2) 스프링이 사용한 객체 지향 원리 - 등록과 사용 분리
+3) 스프링이 사용한 객체 지향 원리 - 인터페이스 분리 원칙(ISP)
 
 ### <a href="Chapter 10. 스프링 타입 컨버터/10.05 스프링에 Converter 적용하기.md" target="_blank">10.05 스프링에 Converter 적용하기</a>
 작성 중
