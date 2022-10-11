@@ -196,7 +196,8 @@
 4) 동작 원리 - ArgumentResolver 에서 ConversionService 사용
 
 ### <a href="Chapter 10. 스프링 타입 컨버터/10.06 뷰 템플릿에 컨버터 적용하기.md" target="_blank">10.06 뷰 템플릿에 컨버터 적용하기</a>
-작성 중
+1) Thymeleaf - 컨버터를 적용하여, 객체를 문자열로 렌더링
+2) Thymeleaf - form에 컨버터 적용하여 렌더링
 
 ### <a href="Chapter 10. 스프링 타입 컨버터/10.07 포맷터 - Formatter.md" target="_blank">10.07 포맷터 - Formatter</a>
 작성 중
