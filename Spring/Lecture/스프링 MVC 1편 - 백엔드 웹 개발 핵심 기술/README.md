@@ -75,7 +75,9 @@
 3) HTTP message body에 데이터를 직접 담아서 요청
 
 ### <a href="Chapter 02. 서블릿/2.06 Http 요청 데이터 - GET 쿼리 파라미터.md" target="_blank">2.06 Http 요청 데이터 - GET 쿼리 파라미터</a>
-작성 예정
+1) 모든 파라미터 조회
+2) 단일 파라미터 조회 : `request.getParameter(...)`
+3) 동일한 이름을 가진 복수의 파라미터 조회 시 : `getParameterValues(...)` 사용
 
 ### <a href="Chapter 02. 서블릿/2.07 Http 요청 데이터 - POST HTML Form.md" target="_blank">2.07 Http 요청 데이터 - POST HTML Form</a>
 작성 예정
