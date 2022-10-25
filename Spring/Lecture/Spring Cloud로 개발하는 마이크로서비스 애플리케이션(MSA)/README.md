@@ -12,7 +12,10 @@
 4) Anti-Fragile의 특징3 : Chaos Engineering
 5) Anti-Fragile의 특징3 : Chaos Engineering
 
-### 1.2 Cloud Native Architecture
+### <a href="Chapter 01. Microservice와 Spring Cloud의 소개/1.2 Cloud Native Architecture의 특징.md">1.2 Cloud Native Architecture의 특징</a>
+1) 확장 가능한 아키텍처
+2) 탄력적인 아키텍처
+3) 장애 격리(Fault isolation)
 
 ### 1.3 Cloud Native Application
 
