@@ -42,10 +42,9 @@
 14) Telemetry : 원격 분석
 15) Authentication and authorization : 인증과 인가
 
-
-### 1.5 Monolithic vs. Microservice
-전통적인 Monolith 아키텍쳐 vs 마이크로서비스 아키텍처 비교
-
+### <a href="Chapter 01. Microservice와 Spring Cloud의 소개/1.5 Monolithic vs. Microservice.md">1.5 Monolithic vs. Microservice</a>
+1) Monolithic Architecture
+2) Microservice Architecture
 
 ### 1.6 Microservice Architecture란?
 
