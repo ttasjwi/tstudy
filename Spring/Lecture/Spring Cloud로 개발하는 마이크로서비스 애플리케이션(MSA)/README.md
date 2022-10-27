@@ -23,8 +23,25 @@
 3) DevOps
 4) Container 가상화
 
-### 1.4 12 Factors
-- 클라우드 애플리케이션을 구축함에 있어 고려해봐야할 12가지 항목들
+### <a href="Chapter 01. Microservice와 Spring Cloud의 소개/1.4 12 + 3 Factors.md">1.4 12 + 3 Factors</a>
+
+클라우드 애플리케이션을 구축함에 있어 고려해봐야할 12 + 3가지 항목들
+1) Codebase : 코드베이스
+2) Dependencies : 명시적인 종속성 선언 및 격리
+3) Config : 환경설정의 외부 관리
+4) Backing services : 보조 서비스를 연결된 리소스로 취급한다
+5) Build, release, run : 빌드, 릴리즈, 실행 단계를 엄격히 분리하라
+6) Stateless Processes : 무상태 프로세스
+7) Port binding : 포트 바인딩을 통한 프로세스 격리, 구별
+8) Concurrency : 프로세스 모델(Process Model)을 통한 수평 확장
+9) Disposability : 빠른 시작/종료, graceful shutdown을 통한 안정성 극대화
+10) Dev/prod parity : 서비스의 개발/스테이징/운영 환경을 최대한 비슷하게 유지
+11) Logs : 로그를 이벤트 스트림으로 처리하고, 실행환경에서 수집하여 외부에 병합
+12) Admin processes : 어드민, 메인터넌스 작업을 일회성 프로세스로 실행
+13) API First : API의 명확한 설계가 중요하다.
+14) Telemetry : 원격 분석
+15) Authentication and authorization : 인증과 인가
+
 
 ### 1.5 Monolithic vs. Microservice
 전통적인 Monolith 아키텍쳐 vs 마이크로서비스 아키텍처 비교
