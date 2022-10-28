@@ -50,7 +50,11 @@
 1) 마이크로서비스가 가져야할 특징들
 2) 반드시 마이크로서비스 아키텍처를 사용해야 하는가? : 아니오아니오
 
-### 1.7 SOA vs. MSA
+### <a href="Chapter 01. Microservice와 Spring Cloud의 소개/1.7 SOA vs. MSA.md">1.7 SOA vs. MSA</a>
+1) SOA(Service Oriented Architecture)
+2) MSA (MicroService Architecture)
+3) REST 제약조건
+4) REST API 설계 시 고려할 사항
 
 ### 1.8 Microservice Architecture Structures
 
