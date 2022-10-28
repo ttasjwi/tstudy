@@ -59,7 +59,10 @@
 ### <a href="Chapter 01. Microservice와 Spring Cloud의 소개/1.8 Microservice Architecture Structures.md">1.8 Microservice Architecture Structures</a>
 1) 주요 제품들
 
-### 1.9 Spring Cloud란?
+### <a href="Chapter 01. Microservice와 Spring Cloud의 소개/1.9 Spring Cloud.md">1.9 Spring Cloud</a>
+1) 스프링 클라우드란?
+2) 사용
+3) 필수 SW
 
 ---
 
