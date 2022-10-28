@@ -56,7 +56,8 @@
 3) REST 제약조건
 4) REST API 설계 시 고려할 사항
 
-### 1.8 Microservice Architecture Structures
+### <a href="Chapter 01. Microservice와 Spring Cloud의 소개/1.8 Microservice Architecture Structures.md">1.8 Microservice Architecture Structures</a>
+1) 주요 제품들
 
 ### 1.9 Spring Cloud란?
 
