@@ -46,7 +46,9 @@
 1) Monolithic Architecture
 2) Microservice Architecture
 
-### 1.6 Microservice Architecture란?
+### <a href="Chapter 01. Microservice와 Spring Cloud의 소개/1.6 Microservice Architecture.md">1.6 Microservice Architecture</a>
+1) 마이크로서비스가 가져야할 특징들
+2) 반드시 마이크로서비스 아키텍처를 사용해야 하는가? : 아니오아니오
 
 ### 1.7 SOA vs. MSA
 
