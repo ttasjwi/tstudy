@@ -71,6 +71,12 @@
 ### <a href="Chapter 02. Service Discovery/2.1 Service Discovery.md">2.1 Service Discovery</a>
 1) Service Discovery란?
 
+### <a href="Chapter 02. Service Discovery/2.2 Eureka Service Discovery - 프로젝트 생성.md">2.2 Eureka Service Discovery - 프로젝트 생성</a>
+1) 프로젝트 생성
+2) application.yml
+3) `@EnableEurekaServer` : 유레카 서비스 활성화
+4) 실행
+
 ---
 
 ## Chapter 03. API Gateway Service
