@@ -77,6 +77,13 @@
 3) `@EnableEurekaServer` : 유레카 서비스 활성화
 4) 실행
 
+### <a href="Chapter 02. Service Discovery/2.3 User Service - 프로젝트 생성.md">2.3 User Service - 프로젝트 생성</a>
+1) 프로젝트 생성
+2) application.yml
+3) `@EnableDiscoveryClient` : 유레카 Discovery 클라이언트 활성화
+4) 실행
+
+
 ---
 
 ## Chapter 03. API Gateway Service
