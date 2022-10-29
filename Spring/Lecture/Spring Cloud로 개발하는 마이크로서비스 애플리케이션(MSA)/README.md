@@ -91,6 +91,10 @@
 5) 유레카 등록 확인
 6) 문제점 : 포트 번호 설정을 매번 개발자가 하는 것이 번거롭다.
 
+### <a href="Chapter 02. Service Discovery/2.5 User Service - 랜덤 port에 여러 인스턴스 기동.md">2.5 User Service - 랜덤 port에 여러 인스턴스 기동</a>
+1) 랜덤 포트 실행
+2) 인스턴스 id 랜덤 생성을 통해 중복 문제 해결
+
 ---
 
 ## Chapter 03. API Gateway Service
