@@ -83,6 +83,13 @@
 3) `@EnableDiscoveryClient` : 유레카 Discovery 클라이언트 활성화
 4) 실행
 
+### <a href="Chapter 02. Service Discovery/2.4 User Service - 등록.md">2.4 User Service - 등록</a>
+1) IDE에서 실행 - 기본 실행
+2) IDE에서 실행 - 설정을 추가하여 다른 포트에서 실행
+3) 소스코드를 기반으로 터미널에서 즉시 실행
+4) jar 빌드 후 실행
+5) 유레카 등록 확인
+6) 문제점 : 포트 번호 설정을 매번 개발자가 하는 것이 번거롭다.
 
 ---
 
