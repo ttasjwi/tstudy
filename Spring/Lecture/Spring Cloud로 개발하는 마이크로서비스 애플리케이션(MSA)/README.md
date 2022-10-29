@@ -99,6 +99,15 @@
 
 ## Chapter 03. API Gateway Service
 
+### <a href="Chapter 03. API Gateway Service/3.1 API Gateway.md">3.1 API Gateway</a>
+1) 기존 방식 : 인스턴스의 구체 주소를 클라이언트가 알아야 함
+2) API Gateway : 공통 진입로
+3) API Gateway에서 할 수 있는 것들
+4) Spring Cloud에서 MSA간 통신
+5) Ribbon : Client side Load Balancer
+6) Netflix Zuul
+
+
 ---
 
 ## Chapter 04. E-commerce 애플리케이션
