@@ -107,6 +107,14 @@
 5) Ribbon : Client side Load Balancer
 6) Netflix Zuul
 
+### <a href="Chapter 03. API Gateway Service/3.2 Netflix Zuul - 프로젝트 생성.md">3.2 Netflix Zuul - 프로젝트 생성</a>
+1) First-Service, Second-Service
+2) Zuul-Service
+3) 실행
+
+
+### <a href="Chapter 03. API Gateway Service/3.3 Netflix Zuul - 필터 적용.md">3.3 Netflix Zuul - 필터 적용</a>
+작성 중
 
 ---
 
