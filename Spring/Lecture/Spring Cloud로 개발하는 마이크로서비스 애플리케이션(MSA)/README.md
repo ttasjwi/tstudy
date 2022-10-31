@@ -114,7 +114,7 @@
 
 
 ### <a href="Chapter 03. API Gateway Service/3.3 Netflix Zuul - 필터 적용.md">3.3 Netflix Zuul - 필터 적용</a>
-작성 중
+1) Netflix Zuul 의 Filter 사용
 
 ---
 
