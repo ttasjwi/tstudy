@@ -119,6 +119,7 @@
 ### <a href="Chapter 03. API Gateway Service/3.4 Spring Cloud Gateway - 프로젝트 생성.md">3.4 Spring Cloud Gateway - 프로젝트 생성</a>
 1) Spring Cloud Gateway - 프로젝트 생성
 2) first-service, second-service의 컨트롤러 매핑 수정
+3) Netty
 
 ---
 
