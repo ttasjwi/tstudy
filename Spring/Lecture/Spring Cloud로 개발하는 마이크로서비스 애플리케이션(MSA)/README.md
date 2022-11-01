@@ -134,6 +134,10 @@
 1) Global Filter 작성 및 적용
 2) 기본적으로 Global 사전 필터는 제일 먼저 실행, 사후 필터는 제일 마지막에 실행
 
+### <a href="Chapter 03. API Gateway Service/3.8 Spring Cloud Gateway - Logging Filter.md">3.8 Spring Cloud Gateway - Logging Filter</a>
+1) Logging Filter 작성 및 적용
+2) 필터의 우선순위를 수동으로 지정하여 글로벌 필터보다 앞에 둘 수 있다.
+
 ---
 
 ## Chapter 04. E-commerce 애플리케이션
