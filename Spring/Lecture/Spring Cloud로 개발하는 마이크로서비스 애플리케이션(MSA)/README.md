@@ -130,6 +130,10 @@
 ### <a href="Chapter 03. API Gateway Service/3.6 Spring Cloud Gateway - Custom Filter 적용.md">3.6 Spring Cloud Gateway - Custom Filter 적용</a>
 1) Custom Filter 작성 및 적용
 
+### <a href="Chapter 03. API Gateway Service/3.7 Spring Cloud Gateway - Global Filter.md">3.7 Spring Cloud Gateway - Global Filter</a>
+1) Global Filter 작성 및 적용
+2) 기본적으로 Global 사전 필터는 제일 먼저 실행, 사후 필터는 제일 마지막에 실행
+
 ---
 
 ## Chapter 04. E-commerce 애플리케이션
