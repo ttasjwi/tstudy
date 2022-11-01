@@ -127,6 +127,9 @@
 3) java 코드로 필터 적용 : RouteLocator 빈 등록
 4) yml 파일로 필터 적용
 
+### <a href="Chapter 03. API Gateway Service/3.6 Spring Cloud Gateway - Custom Filter 적용.md">3.6 Spring Cloud Gateway - Custom Filter 적용</a>
+1) Custom Filter 작성 및 적용
+
 ---
 
 ## Chapter 04. E-commerce 애플리케이션
