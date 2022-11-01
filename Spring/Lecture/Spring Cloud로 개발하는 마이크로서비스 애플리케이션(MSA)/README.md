@@ -121,6 +121,12 @@
 2) first-service, second-service의 컨트롤러 매핑 수정
 3) Netty
 
+### <a href="Chapter 03. API Gateway Service/3.5 Spring Cloud Gateway - Filter 적용.md">3.5 Spring Cloud Gateway - Filter 적용</a>
+1) Route / Predicate / Filter
+2) Spring Cloud Gateway의 구성 요소
+3) java 코드로 필터 적용 : RouteLocator 빈 등록
+4) yml 파일로 필터 적용
+
 ---
 
 ## Chapter 04. E-commerce 애플리케이션
