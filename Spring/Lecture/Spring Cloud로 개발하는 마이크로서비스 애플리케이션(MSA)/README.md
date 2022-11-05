@@ -138,6 +138,10 @@
 1) Logging Filter 작성 및 적용
 2) 필터의 우선순위를 수동으로 지정하여 글로벌 필터보다 앞에 둘 수 있다.
 
+### <a href="Chapter 03. API Gateway Service/3.9 Spring Cloud Gateway - Load Balancer.md">3.9 Spring Cloud Gateway - Load Balancer</a>
+1) Gateway, Eureka 연동
+2) 클라이언트 사이드 로드 밸런싱
+
 ---
 
 ## Chapter 04. E-commerce 애플리케이션
