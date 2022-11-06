@@ -151,6 +151,17 @@
 2) CATALOG-SERVICE : 상품 서비스
 3) ORDER-SERVICE : 주문 서비스
 
+
+### <a href="Chapter 04. E-commerce 애플리케이션/4.2 E-commerce 애플리케이션 구성.md">4.2 E-commerce 애플리케이션 구성</a>
+1) Git Repository
+2) Config Server
+3) Eureka Server
+4) API Gateway Server
+5) 실제 서비스들
+6) Queuing System
+7) 후속 강의 분리
+
+
 ---
 
 ## Chapter 05. Users Microservice
