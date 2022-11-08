@@ -166,6 +166,13 @@
 
 ## Chapter 05. Users Microservice
 
+### <a href="Chapter 05. Users Microservice/5.1 Users Microservice - 프로젝트 생성.md">5.1 Users Microservice - 프로젝트 생성</a>
+1) Spring Boot 프로젝트 생성
+2) build.gradle
+3) application.yml
+4) 테스트용 엔드포인트 설정
+5) 실행 확인
+
 ---
 
 ## Chapter 06. Catalogs and Orders Microservice
