@@ -164,16 +164,16 @@
 
 ---
 
-## Chapter 05. Users Microservice
+## Chapter 05. Users Microservice 1
 
-### <a href="Chapter 05. Users Microservice/5.1 Users Microservice - 프로젝트 생성.md">5.1 Users Microservice - 프로젝트 생성</a>
+### <a href="Chapter 05. Users Microservice 1/5.1 Users Microservice - 프로젝트 생성.md">5.1 Users Microservice 1 - 프로젝트 생성</a>
 1) Spring Boot 프로젝트 생성
 2) build.gradle
 3) application.yml
 4) 테스트용 엔드포인트 설정
 5) 실행 확인
 
-### <a href="Chapter 05. Users Microservice/5.2 Users Microservice - 회원가입 기능 구현.md">5.2 Users Microservice - 회원가입 기능 구현</a>
+### <a href="Chapter 05. Users Microservice 1/5.2 Users Microservice - 회원가입 기능 구현.md">5.2 Users Microservice 1 - 회원가입 기능 구현</a>
 1) User 도메인 개발
 2) UserService 개발
 3) UserController 개발
@@ -184,7 +184,7 @@
 
 ---
 
-## Chapter 07. Users Microservice 
+## Chapter 07. Users Microservice 2
 
 ---
 
