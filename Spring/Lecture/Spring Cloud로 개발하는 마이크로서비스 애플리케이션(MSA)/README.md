@@ -166,17 +166,25 @@
 
 ## Chapter 05. Users Microservice 1
 
-### <a href="Chapter 05. Users Microservice 1/5.1 Users Microservice - 프로젝트 생성.md">5.1 Users Microservice 1 - 프로젝트 생성</a>
+### <a href="Chapter 05. Users Microservice 1/5.1 Users Microservice 1 - 프로젝트 생성.md">5.1 Users Microservice 1 - 프로젝트 생성</a>
 1) Spring Boot 프로젝트 생성
 2) build.gradle
 3) application.yml
 4) 테스트용 엔드포인트 설정
 5) 실행 확인
 
-### <a href="Chapter 05. Users Microservice 1/5.2 Users Microservice - 회원가입 기능 구현.md">5.2 Users Microservice 1 - 회원가입 기능 구현</a>
+### <a href="Chapter 05. Users Microservice 1/5.2 Users Microservice 1 - 회원가입 기능 구현.md">5.2 Users Microservice 1 - 회원가입 기능 구현</a>
 1) User 도메인 개발
 2) UserService 개발
 3) UserController 개발
+
+### <a href="Chapter 05. Users Microservice 1/5.3 Users Microservice 1 - Spring Security 연동.md">5.3 Users Microservice - Spring Security 연동</a>
+1) Spring Security 개요
+2) build.gradle에 Spring Security 의존성 추가
+3) WebSecurityConfigurerAdapter를 상속받는 Security Configuration 클래스 생성(depreacted)
+4) Authorization - 인가 처리
+5) Password encode : BCryptPasswordEncoder 빈 등록
+6) 회원 가입 시, 사용자 패스워드 인코딩 구현
 
 ---
 
