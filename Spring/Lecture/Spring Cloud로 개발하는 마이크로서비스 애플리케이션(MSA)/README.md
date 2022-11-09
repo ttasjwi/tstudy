@@ -173,6 +173,11 @@
 4) 테스트용 엔드포인트 설정
 5) 실행 확인
 
+### <a href="Chapter 05. Users Microservice/5.2 Users Microservice - 회원가입 기능 구현.md">5.2 Users Microservice - 회원가입 기능 구현</a>
+1) User 도메인 개발
+2) UserService 개발
+3) UserController 개발
+
 ---
 
 ## Chapter 06. Catalogs and Orders Microservice
