@@ -189,6 +189,10 @@
 ---
 
 ## Chapter 06. Catalogs and Orders Microservice
+### <a href="Chapter 06. Catalogs and Orders Microservice/6.1 Users Microservice와 Spring Cloud Gateway 연동.md">6.1 Users Microservice와 Spring Cloud Gateway 연동</a>
+1) API Gateway 측에 USER-SERVICE 라우팅 설정 추가
+2) USER-SERVICE 수정
+3) 정상 동작 확인
 
 ---
 
