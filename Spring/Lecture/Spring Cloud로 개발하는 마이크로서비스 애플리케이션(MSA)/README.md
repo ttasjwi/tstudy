@@ -194,6 +194,12 @@
 2) USER-SERVICE 수정
 3) 정상 동작 확인
 
+### <a href="Chapter 06. Catalogs and Orders Microservice/6.2 Users Microservice - 사용자 조회 기능 구현.md">6.2 Users Microservice - 사용자 조회 기능 구현</a>
+1) UserRepository - userId로 사용자 조회 기능 추가
+2) UserService - 사용자 조회 기능 추가
+3) UserController - 사용자 조회 API 추가
+4) 실행
+
 ---
 
 ## Chapter 07. Users Microservice 2
