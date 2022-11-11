@@ -200,6 +200,13 @@
 3) UserController - 사용자 조회 API 추가
 4) 실행
 
+### <a href="Chapter 06. Catalogs and Orders Microservice/6.3 Catalogs Microservice - 프로젝트 생성.md">6.3 Catalogs Microservice - 프로젝트 생성</a>
+1) Spring Boot 프로젝트 생성
+2) build.gradle
+3) CatalogController - health-check
+4) API-Gateway - 라우팅 설정
+5) 실행 확인
+
 ---
 
 ## Chapter 07. Users Microservice 2
