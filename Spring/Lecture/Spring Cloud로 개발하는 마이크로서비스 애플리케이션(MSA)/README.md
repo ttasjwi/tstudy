@@ -207,6 +207,13 @@
 4) API-Gateway - 라우팅 설정
 5) 실행 확인
 
+### <a href="Chapter 06. Catalogs and Orders Microservice/6.4 Catalogs Microservice - 상품 목록 조회 구현.md">6.4 Catalogs Microservice - 상품 목록 조회 구현</a>
+1) 상품 도메인 개발
+2) 샘플 데이터 삽입 - data.sql
+3) 상품 서비스 개발
+4) 상품 목록 조회 API 구현
+5) 실행
+
 ---
 
 ## Chapter 07. Users Microservice 2
