@@ -35,11 +35,22 @@
 ---
 
 ## Chapter 04. 결과를 전달하는 HTTP 상태 코드
-- 4.1 상태 코드는 서버로부터 리퀘스트 결과를 전달한다
-- 4.2 2xx 성공(Success)
-- 4.3 3xx 리다이렉트(Redirection)
-- 4.4 4xx 클라이언트 에러(Client Error)
-- 4.5 5xx 서버 에러(Server Error)
+
+### <a href="Chapter 04. 결과를 전달하는 HTTP 상태 코드/4.1 상태 코드는 서버로부터 리퀘스트 결과를 전달한다.md" target="_blank">4.1 상태 코드는 서버로부터 리퀘스트 결과를 전달한다</a>
+1) 상태 코드(Status Code)
+2) 상태 코드 클래스
+
+### <a href="Chapter 04. 결과를 전달하는 HTTP 상태 코드/4.2 2xx 성공(Success).md" target="_blank">4.2 2xx 성공(Success)</a>
+작성 중
+
+### <a href="Chapter 04. 결과를 전달하는 HTTP 상태 코드/4.3 3xx 리다이렉트(Redirection).md" target="_blank">4.3 3xx 리다이렉트(Redirection)</a>
+작성 중
+
+### <a href="Chapter 04. 결과를 전달하는 HTTP 상태 코드/4.4 4xx 클라이언트 에러(Client Error).md" target="_blank">4.4 4xx 클라이언트 에러(Client Error)</a>
+작성 중
+
+### <a href="Chapter 04. 결과를 전달하는 HTTP 상태 코드/4.5 5xx 서버 에러(Server Error).md" target="_blank">4.5 5xx 서버 에러(Server Error)</a>
+작성 중
 
 ---
 
