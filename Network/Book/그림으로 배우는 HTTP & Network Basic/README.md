@@ -41,7 +41,9 @@
 2) 상태 코드 클래스
 
 ### <a href="Chapter 04. 결과를 전달하는 HTTP 상태 코드/4.2 2xx 성공(Success).md" target="_blank">4.2 2xx 성공(Success)</a>
-작성 중
+1) 200 OK : 리퀘스트를 정상 처리함
+2) 204 No Content : 처리는 성공했으나, 바디에 데이터 없음
+3) 206 Partial Content : 일 부분에 대한 요구사항에 맞게, 일부분만 응답함
 
 ### <a href="Chapter 04. 결과를 전달하는 HTTP 상태 코드/4.3 3xx 리다이렉트(Redirection).md" target="_blank">4.3 3xx 리다이렉트(Redirection)</a>
 작성 중
