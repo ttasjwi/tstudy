@@ -14,7 +14,12 @@
 5) 스프링 시큐리티 의존성 추가 시 일어나는 일들
 6) 스프링 시큐리티 기본 제공 기능의 한계
 
-### 1.02 사용자 정의 보안 기능 구현
+### <a href="Chapter 01. 스프링 시큐리티 기본 API 및 Filter 이해/1.02 사용자 정의 보안 기능 구현.md" target="_blank">1.02 사용자 정의 보안 기능 구현</a>
+1) WebSecurityConfigurerAdapter
+2) HttpSecurity : 보안 설정 편의 API 제공
+3) 사용자 정의 보안 기능 구현하기
+4) 디폴트 자격증명 사용자 id, password 지정
+
 ### 1.03 Form Login 인증
 ### 1.04 Form Login 인증 필터 : UsernamePasswordAuthenticationFilter
 ### 1.05 Logout 처리, LogoutFilter
