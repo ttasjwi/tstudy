@@ -27,7 +27,12 @@
 ### <a href="Chapter 01. 스프링 시큐리티 기본 API 및 Filter 이해/1.04 Form Login 인증 필터 - UsernamePasswordAuthenticationFilter.md" target="_blank">1.04 Form Login 인증 필터 - UsernamePasswordAuthenticationFilter</a>
 1) Form Login 인증 - 필터 흐름
 
-### 1.05 Logout 처리, LogoutFilter
+### <a href="Chapter 01. 스프링 시큐리티 기본 API 및 Filter 이해/1.05 Logout 처리, LogoutFilter.md" target="_blank">1.05 Logout 처리, LogoutFilter</a>
+1) Logout 흐름
+2) Logout 관련 스프링 시큐리티 API
+3) LogoutFilter 흐름
+
+
 ### 1.06 Remember Me 인증
 ### 1.07 Remember Me 인증 필터 : RememberMeAuthenticationFilter
 ### 1.08 익명사용자 인증 필터 : AnonymousAuthenticationFilter
