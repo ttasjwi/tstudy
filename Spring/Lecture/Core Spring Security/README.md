@@ -37,7 +37,9 @@
 2) Remember Me 인증 관련 스프링 시큐리티 API
 
 
-### 1.07 Remember Me 인증 필터 : RememberMeAuthenticationFilter
+### <a href="Chapter 01. 스프링 시큐리티 기본 API 및 Filter 이해/1.07 Remember Me 인증 필터 - RememberMeAuthenticationFilter.md" target="_blank">1.07 Remember Me 인증 필터 - RememberMeAuthenticationFilter</a>
+1) Remember Me 인증 필터 통작 방식
+
 ### 1.08 익명사용자 인증 필터 : AnonymousAuthenticationFilter
 ### 1.09 동시 세션 제어, 세션 고정 보호, 세션 정책
 ### 1.10 세션 제어 필터 : SessionManagementFilter, ConcurrentSessionFilter
