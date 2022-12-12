@@ -32,8 +32,11 @@
 2) Logout 관련 스프링 시큐리티 API
 3) LogoutFilter 흐름
 
+### <a href="Chapter 01. 스프링 시큐리티 기본 API 및 Filter 이해/1.06 Remember Me 인증.md" target="_blank">1.06 Remember Me 인증</a>
+1) Remember Me 인증
+2) Remember Me 인증 관련 스프링 시큐리티 API
 
-### 1.06 Remember Me 인증
+
 ### 1.07 Remember Me 인증 필터 : RememberMeAuthenticationFilter
 ### 1.08 익명사용자 인증 필터 : AnonymousAuthenticationFilter
 ### 1.09 동시 세션 제어, 세션 고정 보호, 세션 정책
