@@ -40,7 +40,12 @@
 ### <a href="Chapter 01. 스프링 시큐리티 기본 API 및 Filter 이해/1.07 Remember Me 인증 필터 - RememberMeAuthenticationFilter.md" target="_blank">1.07 Remember Me 인증 필터 - RememberMeAuthenticationFilter</a>
 1) Remember Me 인증 필터 통작 방식
 
-### 1.08 익명사용자 인증 필터 : AnonymousAuthenticationFilter
+### <a href="Chapter 01. 스프링 시큐리티 기본 API 및 Filter 이해/1.08 익명사용자 인증 필터 - AnonymousAuthenticationFilter.md" target="_blank">1.08 익명사용자 인증 필터 - AnonymousAuthenticationFilter</a>
+1) AnonymousAuthenticationFilter
+2) 익명 사용자의 Authentication은 어디에도 갈 수 없는 통행증
+3) 익명 객체는 세션에 저장하지 않는다.
+4) 소스 코드로 확인하기
+
 ### 1.09 동시 세션 제어, 세션 고정 보호, 세션 정책
 ### 1.10 세션 제어 필터 : SessionManagementFilter, ConcurrentSessionFilter
 ### 1.11 권한설정과 표현식
