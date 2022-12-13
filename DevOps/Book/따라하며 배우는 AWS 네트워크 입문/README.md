@@ -52,7 +52,8 @@
 ## Chapter 02. VPC 기초
 
 ### <a href="Chapter 02. VPC 기초/2.1 VPC(Virtual Private Cloud).md" target="_blank">2.1 VPC(Virtual Private Cloud)</a>
-작성 예정
+1) VPC : 가상 사설 클라우드 네트워크
+2) VPC 특징
 
 ### <a href="Chapter 02. VPC 기초/2.2 기본 네트워크 개념 이해.md" target="_blank">2.2 기본 네트워크 개념 이해</a>
 작성 예정
