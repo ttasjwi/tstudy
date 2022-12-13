@@ -36,8 +36,11 @@
 5) AWS SSH 키 페어 생성(서울 리전)
 6) 그 외 준비 사항
 
-### <a href="Chapter 01. AWS 인프라/1.4 EC2 배포 및 사용.md" target="_blank">1.4 EC2 배포 및 사용</a>
-작성 예정
+### <a href="Chapter 01. AWS 인프라/1.4 [실습 1-1] EC2 배포 및 사용.md" target="_blank">1.4 [실습 1-1] EC2 배포 및 사용</a>
+1) AWS 관리 콘솔에서 EC2 인스턴스 배포
+2) 사용자 PC에서 SSH로 EC2 인스턴스 접근
+3) EC2 인스턴스에 웹 서비스 설치
+4) EC2 인스턴스 삭제
 
 ### <a href="Chapter 01. AWS 인프라/1.5 CloudFormation 스택 생성 및 삭제.md" target="_blank">1.5 CloudFormation 스택 생성 및 삭제</a>
 작성 예정
