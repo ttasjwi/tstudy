@@ -29,7 +29,12 @@
 10) 네트워크 보안
 
 ### <a href="Chapter 01. AWS 인프라/1.3 실습 전 사전 준비 사항.md" target="_blank">1.3 실습 전 사전 준비 사항</a>
-작성 예정
+1) AWS 회원 가입 및 프리 티어
+2) AWS를 사용하는 방법
+3) AWS 관리 콘솔 접근하기
+4) SSH 소개
+5) AWS SSH 키 페어 생성(서울 리전)
+6) 그 외 준비 사항
 
 ### <a href="Chapter 01. AWS 인프라/1.4 EC2 배포 및 사용.md" target="_blank">1.4 EC2 배포 및 사용</a>
 작성 예정
