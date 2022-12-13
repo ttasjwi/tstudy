@@ -25,7 +25,10 @@
 ### <a href="Chapter 02. IAM 실습/2.2 admin 사용자 추가.md" target="_blank">2.2 admin 사용자 추가</a>
 1) admin 그룹 생성 및 사용자 연결
 
-### 2.3 개발자 아이디 추가
+### <a href="Chapter 02. IAM 실습/2.3 developer 사용자 추가.md" target="_blank">2.3 developer 사용자 추가</a>
+1) developer 그룹 생성 및 사용자 연결
+
+
 ### 2.4 로그인 URL 변경하기
 
 ---
