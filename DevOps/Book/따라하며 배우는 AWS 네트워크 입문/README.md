@@ -42,12 +42,14 @@
 3) EC2 인스턴스에 웹 서비스 설치
 4) EC2 인스턴스 삭제
 
-### <a href="Chapter 01. AWS 인프라/1.5 CloudFormation 스택 생성 및 삭제.md" target="_blank">1.5 CloudFormation 스택 생성 및 삭제</a>
-작성 예정
+### <a href="Chapter 01. AWS 인프라/1.5 [실습 1-2] CloudFormation 스택 생성 및 삭제.md" target="_blank">1.5 [실습 1-2] CloudFormation 스택 생성 및 삭제</a>
+1) CloudFormation 소개
+2) CloudFormation 스택 생성
+3) CloudFormation 스택 삭제
 
 ---
 
-# Chapter 02. VPC 기초
+## Chapter 02. VPC 기초
 
 ### <a href="Chapter 02. VPC 기초/2.1 VPC(Virtual Private Cloud).md" target="_blank">2.1 VPC(Virtual Private Cloud)</a>
 작성 예정
@@ -66,26 +68,26 @@
 
 ---
 
-# Chapter 03. VPC 고급
+## Chapter 03. VPC 고급
 
 ---
 
-# Chapter 04. 인터넷 연결
+## Chapter 04. 인터넷 연결
 
 ---
 
-# Chapter 05. 부하 분산
+## Chapter 05. 부하 분산
 
 ---
 
-# Chapter 06. 네트워크 연결 옵션
+## Chapter 06. 네트워크 연결 옵션
 
 ---
 
-# Chapter 07. 네트워크 보안
+## Chapter 07. 네트워크 보안
 
 ---
 
-# Chapter 08. 종합 실습
+## Chapter 08. 종합 실습
 
 ---
