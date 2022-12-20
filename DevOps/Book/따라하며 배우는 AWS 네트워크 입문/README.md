@@ -56,7 +56,12 @@
 2) VPC 특징
 
 ### <a href="Chapter 02. VPC 기초/2.2 기본 네트워크 개념 이해.md" target="_blank">2.2 기본 네트워크 개념 이해</a>
-작성 예정
+1) OSI 7 레이어 모델
+2) IP와 서브넷 마스크
+3) TCP, UDP 그리고 포트 번호
+4) DHCP
+5) DNS
+6) 라우팅(Routing)
 
 ### <a href="Chapter 02. VPC 기초/2.3 VPC 리소스 소개.md" target="_blank">2.3 VPC 리소스 소개</a>
 작성 예정
