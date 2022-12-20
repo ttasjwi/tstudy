@@ -71,7 +71,8 @@
 5) 보안 그룹과 네트워크 ACL
 
 ### <a href="Chapter 02. VPC 기초/2.4 [실습 2-1] 퍼블릭 서브넷 VPC 구성.md" target="_blank">2.4 [실습 2-1] 퍼블릭 서브넷 VPC 구성</a>
-작성 예정
+1) 퍼블릭 서브넷 VPC 생성
+2) 검증
 
 ### <a href="Chapter 02. VPC 기초/2.5 [실습 2-2] 프라이빗 서브넷 VPC 구성.md" target="_blank">2.5 [실습 2-2] 프라이빗 서브넷 VPC 구성</a>
 작성 예정
