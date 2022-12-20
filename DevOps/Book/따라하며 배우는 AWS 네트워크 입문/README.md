@@ -64,7 +64,11 @@
 6) 라우팅(Routing)
 
 ### <a href="Chapter 02. VPC 기초/2.3 VPC 리소스 소개.md" target="_blank">2.3 VPC 리소스 소개</a>
-작성 예정
+1) 서브넷
+2) 가상 라우터와 라우팅 테이블
+3) 인터넷 게이트웨이
+4) NAT 게이트웨이
+5) 보안 그룹과 네트워크 ACL
 
 ### <a href="Chapter 02. VPC 기초/2.4 [실습 2-1] 퍼블릭 서브넷 VPC 구성.md" target="_blank">2.4 [실습 2-1] 퍼블릭 서브넷 VPC 구성</a>
 작성 예정
