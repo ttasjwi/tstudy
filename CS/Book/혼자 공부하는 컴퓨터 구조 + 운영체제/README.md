@@ -47,6 +47,10 @@
 
 ## Chapter 04. CPU의 작동 원리
 
+### <a href="Chapter 04. CPU의 작동 원리/4.1 ALU와 제어장치.md" target="_blank">4.1 ALU와 제어장치</a>
+1) ALU
+2) 제어장치와 제어 신호
+
 ---
 
 ## Chapter 05. CPU 성능 향상 기법
