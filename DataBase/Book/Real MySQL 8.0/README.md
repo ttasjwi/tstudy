@@ -5,8 +5,9 @@
 
 ## Chapter 01. 소개
 ### 1.1 MySQL 소개
-### 1.2 왜 MySQL인가?
-
+### <a href="Chapter 01. 소개/1.2 왜 MySQL인가.md">1.2 왜 MySQL인가?</a>
+1) Oracle vs MySQL
+2) DBMS 선택의 우선순위
 ---
 
 ## Chapter 02. 설치와 설정
