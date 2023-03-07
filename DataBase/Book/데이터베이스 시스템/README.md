@@ -41,7 +41,12 @@
 ### <a href="Chapter 02. 관계형 모델 소개/2.4 스키마 다이어그램.md" target="_blank">2.4 스키마 다이어그램</a>
 1) 스키마 다이어그램
 
-### 2.5 관계형 질의어
+### <a href="Chapter 02. 관계형 모델 소개/2.5 관계형 질의어.md" target="_blank">2.5 관계형 질의어</a>
+1) 질의어(Query Language)
+2) 명령형 질의어(Imperative Query Language)
+3) 함수형 질의어(Functional Query Language)
+4) 선언형 질의어(Declarative Query Language)
+
 ### 2.6 관계 대수
 
 ---
