@@ -47,7 +47,17 @@
 3) 함수형 질의어(Functional Query Language)
 4) 선언형 질의어(Declarative Query Language)
 
-### 2.6 관계 대수
+### <a href="Chapter 02. 관계형 모델 소개/2.6 관계 대수.md" target="_blank">2.6 관계 대수</a>
+1) 관계 대수
+2) 선택 연산(selection)
+3) 추출 연산(projection)
+4) 혼합 관계 연산
+5) 카티션 곱 연산(Cartesian product)
+6) 조인 연산(Join)
+7) 집합 연산
+8) 배정(할당) 연산(Assignment)
+9) 재명명 연산(rename)
+10) 동등 질의(equivalent query)
 
 ---
 
