@@ -11,6 +11,12 @@
 ### <a href="Chapter 01. Spring Security Fundamentals/1.1 초기화 과정 이해 - 프로젝트 생성, 의존성 추가.md" target="_blank">1.1 초기화 과정 이해 - 프로젝트 생성, 의존성 추가</a>
 1) 프로젝트 의존성 설정 및 실행
 
+### <a href="Chapter 01. Spring Security Fundamentals/1.2 초기화 과정 이해 - SecurityBuilder, SecurityConfigurer.md" target="_blank">1.2 초기화 과정 이해 - SecurityBuilder, SecurityConfigurer</a>
+1) SecurityBuilder, SecurityConfigurer
+2) 자동 설정에서의 SecurityBuilder
+3) 예전 방식의 커스텀 설정 방법 : WebSecurityConfigurerAdapter
+4) 최신의 커스텀 보안 설정 방법 : SecurityFilterChain 빈 등록
+
 ## Chapter 02. OAuth 2.0 용어 이해
 
 ## Chapter 03. OAuth 2.0 권한부여 유형
