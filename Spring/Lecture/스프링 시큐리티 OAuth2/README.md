@@ -8,6 +8,9 @@
 
 ## Chapter 01. Spring Security Fundamentals
 
+### <a href="Chapter 01. Spring Security Fundamentals/1.1 초기화 과정 이해 - 프로젝트 생성, 의존성 추가.md" target="_blank">1.1 초기화 과정 이해 - 프로젝트 생성, 의존성 추가</a>
+1) 프로젝트 의존성 설정 및 실행
+
 ## Chapter 02. OAuth 2.0 용어 이해
 
 ## Chapter 03. OAuth 2.0 권한부여 유형
