@@ -17,6 +17,10 @@
 3) 예전 방식의 커스텀 설정 방법 : WebSecurityConfigurerAdapter
 4) 최신의 커스텀 보안 설정 방법 : SecurityFilterChain 빈 등록
 
+### <a href="Chapter 01. Spring Security Fundamentals/1.3 자동설정에 의한 초기화 과정 이해.md" target="_blank">1.3 자동설정에 의한 초기화 과정 이해</a>
+1) 자동 설정
+2) 커스텀 설정
+
 ## Chapter 02. OAuth 2.0 용어 이해
 
 ## Chapter 03. OAuth 2.0 권한부여 유형
