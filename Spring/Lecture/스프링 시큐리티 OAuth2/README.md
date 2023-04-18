@@ -21,6 +21,11 @@
 1) 자동 설정
 2) 커스텀 설정
 
+### <a href="Chapter 01. Spring Security Fundamentals/1.4 AuthenticationEntryPoint의 이해" target="_blank">1.4 AuthenticationEntryPoint의 이해</a>
+1) AuthenticationEntryPoint 란?
+2) ExceptionHandlingConfigurer
+3) 실습 코드
+
 ## Chapter 02. OAuth 2.0 용어 이해
 
 ## Chapter 03. OAuth 2.0 권한부여 유형
