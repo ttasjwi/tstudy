@@ -26,6 +26,13 @@
 2) ExceptionHandlingConfigurer
 3) 실습 코드
 
+
+### <a href="Chapter 01. Spring Security Fundamentals/1.5 스프링 시큐리티 인증-인가 흐름" target="_blank">1.5 스프링 시큐리티 인증-인가 흐름</a>
+1) 서블릿 필터 영역
+2) 인증 영역(Authentication)
+3) 인가 영역(Authorization)
+4) 스프링 MVC 영역
+
 ## Chapter 02. OAuth 2.0 용어 이해
 
 ## Chapter 03. OAuth 2.0 권한부여 유형
