@@ -18,6 +18,7 @@
 - <a href="./spring/스프링 시큐리티에 코틀린 DSL 적용하기.md" target="_blank">스프링 시큐리티에 코틀린 DSL 적용하기</a>
 - <a href="./spring/스프링의 OAuth2 관련 프로젝트들.md" target="_blank">스프링의 OAuth2 관련 프로젝트들</a>
 - <a href="./spring/Spring Security OAuth2 Client - application.yml 설정 및 OAuth2ClientProperties.md" target="_blank">Spring Security OAuth2 Client - application.yml 설정 및 OAuth2ClientProperties</a>
+- <a href="./spring/Spring Security OAuth2 Client - ClientRegistration, ClientRegistrationRepository.md" target="_blank">Spring Security OAuth2 Client - ClientRegistration, ClientRegistrationRepository</a>
 - <a href="./spring/Spring Security OAuth2 Client - 자동구성.md" target="_blank">Spring Security OAuth2 Client - 자동구성</a>
 
 ---
