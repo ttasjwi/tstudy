@@ -2,6 +2,12 @@
 
 ---
 
+#### 백엔드
+- <a href="./back-end/동시성 문제.md" target="_blank">동시성 문제</a>
+
+
+---
+
 #### Java
 - <a href="./java/ThreadLocal.md">ThreadLocal</a>
 
