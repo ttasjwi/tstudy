@@ -4,7 +4,7 @@
 
 #### 백엔드
 - <a href="./back-end/동시성 문제.md" target="_blank">동시성 문제</a>
-
+- <a href="./back-end/메시지 큐, 이벤트 스트림.md" target="_blank">메시지 큐, 이벤트 스트림</a>
 
 ---
 
