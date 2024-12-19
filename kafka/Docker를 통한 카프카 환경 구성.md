@@ -2,6 +2,15 @@
 
 ---
 
+#### 볼륨 설정
+```bash
+docker volume create zookeeper-data
+docker volume create zookeeper-log
+docker volume create kafka-data
+```
+
+---
+
 #### docker-compose-kafka.yml
 ```yaml
 services:
@@ -97,11 +106,11 @@ networks:
 
 volumes:
   zookeeper-data:
-    driver: local
+    external: true
   zookeeper-log:
-    driver: local
+    external: true
   kafka-data:
-    driver: local
+    external: true
 ```
 
 ---
