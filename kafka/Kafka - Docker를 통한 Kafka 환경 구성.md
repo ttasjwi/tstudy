@@ -1,4 +1,4 @@
-# Docker를 통한 카프카 환경 구성
+# Kafka - Docker를 통한 Kafka 환경 구성
 
 ---
 
