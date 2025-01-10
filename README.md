@@ -50,6 +50,8 @@
   - <a href="./database/mysql/언두 로그와 MVCC (Multi Version Concurrency Control).md" target="_blank">언두 로그와 MVCC (Multi Version Concurrency Control)</a>
   - <a href="./database/mysql/MySQL 데이터 타입.md" target="_blank">MySQL 데이터 타입</a>
   - <a href="./database/mysql/CTE(Common Table Expression) - WITH 와 WITH RECURSIVE.md" target="_blank">CTE(Common Table Expression) - WITH 와 WITH RECURSIVE</a>
+- Redis
+  - <a href="./database/redis/Redis - Docker를 통한 Redis 환경 구성.md" target="_blank">Redis - Docker를 통한 Redis 환경 구성</a>
 
 ---
 
