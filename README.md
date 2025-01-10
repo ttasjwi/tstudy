@@ -34,6 +34,7 @@
 - <a href="./database/데이터베이스 성능 최적화.md" target="_blank">데이터베이스 성능 최적화</a>
   - <a href="./database/데이터베이스 아키텍처와 SQL 튜닝.md" target="_blank">데이터베이스 아키텍처와 SQL 튜닝</a>
   - <a href="./database/인덱스.md" target="_blank">인덱스</a>
+  - <a href="./database/기본으로 설정되는 인덱스(PK).md" target="_blank">기본으로 설정되는 인덱스(PK)</a>
 - MySQL
   - <a href="./database/mysql/MySQL - Docker를 통한 MySQL 환경 구성.md" target="_blank">MySQL - Docker를 통한 MySQL 환경 구성</a>
   - <a href="./database/mysql/언두 로그와 MVCC (Multi Version Concurrency Control).md" target="_blank">언두 로그와 MVCC (Multi Version Concurrency Control)</a>
