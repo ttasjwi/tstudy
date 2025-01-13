@@ -47,6 +47,12 @@
 
 ---
 
+#### MSA
+- <a href="./msa/서비스 디스커버리(Service Discovery).md" target="_blank">서비스 디스커버리(Service Discovery)</a>
+
+
+---
+
 #### Kafka
 - <a href="./kafka/Kafka - Docker를 통한 Kafka 환경 구성.md" target="_blank">Kafka - Docker를 통한 Kafka 환경 구성</a>
 - <a href="./kafka/Kafka - 토픽 생성, 조회, 삭제.md" target="_blank">Kafka - 토픽 생성, 조회, 삭제</a>
