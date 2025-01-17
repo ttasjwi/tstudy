@@ -5,11 +5,15 @@
 #### Back-end
 - <a href="./back-end/동시성 문제.md" target="_blank">동시성 문제</a>
 - <a href="./back-end/메시지 큐, 이벤트 스트림.md" target="_blank">메시지 큐, 이벤트 스트림</a>
+- 부하테스트
+  - <a href="./back-end/부하테스트란, 부하테스트를 하는 이유.md" target="_blank">부하테스트란, 부하테스트를 하는 이유</a>
 
 ---
 
 #### DevOps
 - <a href="./devops/docker/도커 컴포즈.md">도커 컴포즈</a>
+- Docker
+- Kubernetes
 
 ---
 
