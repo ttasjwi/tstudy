@@ -8,6 +8,7 @@
 - 부하테스트
   - <a href="./back-end/부하테스트란, 부하테스트를 하는 이유.md" target="_blank">부하테스트란, 부하테스트를 하는 이유</a>
   - <a href="./back-end/처리량(Throughput), 지연 시간(Latency).md" target="_blank">처리량(Throughput), 지연 시간(Latency)</a>
+  - <a href="./back-end/부하테스트 툴.md" target="_blank">부하테스트 툴</a>
 
 ---
 
