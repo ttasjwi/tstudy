@@ -3,6 +3,8 @@
 ---
 
 ### Service Discovery
+![service-discovery](./imgs/service-discovery.png)
+
 - 여러 마이크로 서비스를 서비스 디스커버리에 등록하고, 검색할 수 있다.
     -  key로 서비스 이름을 보관하고, value에 해당 서비스 이름을 가진 인스턴스들을 매핑해둔다.
 - 각각의 서비스의 물리적 주소가 Service Discovery에 의해 추상화된다.
