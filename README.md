@@ -87,3 +87,4 @@
 
 #### Python
 - <a href="./python/Python 로컬 개발환경 구성.md" target="_blank">Python 로컬 개발환경 구성</a>
+- <a href="./python/문자열.md" target="_blank">문자열</a>
