@@ -15,8 +15,8 @@
 ---
 
 #### DevOps
-- <a href="./devops/docker/도커 컴포즈.md">도커 컴포즈</a>
 - Docker
+- <a href="./devops/docker/도커 컴포즈.md">도커 컴포즈</a>
 - Kubernetes
 
 ---
@@ -57,7 +57,7 @@
 
 #### MSA
 - <a href="./msa/서비스 디스커버리(Service Discovery).md" target="_blank">서비스 디스커버리(Service Discovery)</a>
-
+- <a href="./msa/서비스 디스커버리 - Spring Eureka Server 실습.md" target="_blank">서비스 디스커버리 - Spring Eureka Server 실습</a>
 
 ---
 
@@ -82,9 +82,5 @@
 #### React
 - <a href="./react/useState.md" target="_blank">useState - 상태 관리</a>
 - <a href="./react/TanStack Query 설치.md" target="_blank">TanStack Query 설치</a>
-
----
-
-#### Nextjs
 
 ---
