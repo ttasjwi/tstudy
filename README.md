@@ -84,3 +84,6 @@
 - <a href="./react/TanStack Query 설치.md" target="_blank">TanStack Query 설치</a>
 
 ---
+
+#### Python
+- <a href="./python/Python 로컬 개발환경 구성.md" target="_blank">Python 로컬 개발환경 구성</a>
