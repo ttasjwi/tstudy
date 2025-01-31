@@ -88,3 +88,10 @@
 #### Python
 - <a href="./python/Python 로컬 개발환경 구성.md" target="_blank">Python 로컬 개발환경 구성</a>
 - <a href="./python/문자열.md" target="_blank">문자열</a>
+
+---
+
+#### DataStructure & Algorithm
+- <a href="./data-structure-and-algorithm/배열.md" href="_blank">배열</a>
+
+---
