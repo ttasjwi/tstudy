@@ -99,7 +99,7 @@
 - <a href="./data-structure-and-algorithm/시간복잡도, 공간복잡도.md" href="_blank">시간복잡도, 공간복잡도</a>
 - <a href="./data-structure-and-algorithm/배열.md" href="_blank">배열</a>
 - <a href="./data-structure-and-algorithm/재귀함수.md" href="_blank">재귀함수</a>
-- <a href="./data-structure-and-algorithm/연결 리스트.md" href="_blank">연결 리스트</a>
+- <a href="./data-structure-and-algorithm/연결 리스트(Linked List).md" href="_blank">연결 리스트(Linked List)</a>
 - <a href="./data-structure-and-algorithm/이진탐색.md" href="_blank">이진탐색</a>
 - <a href="./data-structure-and-algorithm/정렬.md" href="_blank">정렬</a>
 - <a href="./data-structure-and-algorithm/스택.md" href="_blank">스택</a>
