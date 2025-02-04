@@ -30,14 +30,16 @@ logging:
   level:
     p6spy: info # p6spy 로깅 레벨
 
-
 decorator:
   datasource:
-    p6-spy:
+    p6spy:
       enable-logging: true
 ```
 
-#### 포맷 전략
+#### 포맷 전략 및 이벤트 리스너
+[Reference](https://www.inflearn.com/community/questions/1032603/p6spy-%ED%8F%AC%EB%A7%B7-%EC%84%A4%EC%A0%95-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4)
+
+
 ```kotlin
 package hello.querydsl.config
 
@@ -121,7 +123,123 @@ class P6SpyFormattingStrategy : MessageFormattingStrategy {
 
 }
 ```
-- [Reference](https://www.inflearn.com/community/questions/1032603/p6spy-%ED%8F%AC%EB%A7%B7-%EC%84%A4%EC%A0%95-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4)
+- 포맷팅을 담당하는 전략. P6SPY 내부적으로 이 설정 파일을 참조하여 SQL 메시지를 커스텀하게 포맷팅해준다.
+
+```kotlin
+package hello.querydsl.config
+
+import com.p6spy.engine.common.ConnectionInformation
+import com.p6spy.engine.event.JdbcEventListener
+import com.p6spy.engine.spy.P6SpyOptions
+import org.springframework.stereotype.Component
+import java.sql.SQLException
+
+@Component
+class P6SpyEventListener : JdbcEventListener() {
+
+    override fun onAfterGetConnection(connectionInformation: ConnectionInformation?, e: SQLException?) {
+        P6SpyOptions.getActiveInstance().logMessageFormat = P6SpyFormattingStrategy::class.java.getName()
+    }
+}
+```
+- 커넥션 획득 시에도 P6SPY 포맷팅이 적용될 수 있도록 P6Spy 이벤트 리스너 설정을 추가로 작성
 
 ---
 
+### 실행 확인
+
+
+#### 샘플 Entity
+```kotlin
+package hello.querydsl.entity
+
+import jakarta.persistence.Entity
+import jakarta.persistence.GeneratedValue
+import jakarta.persistence.GenerationType
+import jakarta.persistence.Id
+
+@Entity
+class Hello(
+    @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
+    var id: Long? = null
+)
+```
+
+#### DDL 실행
+```shell
+2025-02-04T10:05:37.468+09:00  INFO 23496 --- [querydsl] [           main] p6spy                                    : 
+Execute DDL : 
+
+    drop table if exists hello
+
+Execution Time: 16 ms
+----------------------------------------------------------------------------------------------------
+2025-02-04T10:05:37.495+09:00  INFO 23496 --- [querydsl] [           main] p6spy                                    : 
+Execute DDL : 
+
+    create table hello (
+        id bigint not null auto_increment,
+        primary key (id)
+    ) engine=InnoDB
+
+Execution Time: 21 ms
+----------------------------------------------------------------------------------------------------
+```
+- 최초 DDL 실행시(ddl-auto: create 기준) 포맷팅된 SQL 이 출력되는 것을 볼 수 있다.
+
+#### DML 파라미터 확인
+```kotlin
+@SpringBootTest
+@Transactional
+class QuerydslApplicationTests @Autowired constructor(
+    private val em: EntityManager
+) {
+
+    @Test
+    fun contextLoads() {
+        val hello = Hello()
+        em.persist(hello)
+
+        val query = JPAQueryFactory(em)
+        val qHello = QHello.hello
+
+        val result: Hello = query
+            .selectFrom(qHello)
+            .where(qHello.id.eq(hello.id))
+            .fetchOne()!!
+
+        assertThat(result).isEqualTo(hello)
+        assertThat(result.id).isEqualTo(hello.id)
+    }
+
+}
+```
+```shell
+2025-02-04T10:13:15.421+09:00  INFO 2624 --- [querydsl] [    Test worker] p6spy                                    : 
+Execute DML : 
+
+    insert 
+    into
+        hello
+        
+    values
+        ( )
+
+Execution Time: 2 ms
+----------------------------------------------------------------------------------------------------
+2025-02-04T10:13:16.002+09:00  INFO 2624 --- [querydsl] [    Test worker] p6spy                                    : 
+Execute DML : 
+
+    select
+        h1_0.id 
+    from
+        hello h1_0 
+    where
+        h1_0.id=1
+
+Execution Time: 6 ms
+----------------------------------------------------------------------------------------------------
+```
+- DML 실행 과정에서 파라미터 자리에, 구체값이 포함되어 로깅되는 것을 볼 수 있다.
+
+---
