@@ -36,6 +36,7 @@
 - <a href="./spring/querydsl/Querydsl.md">QueryDsl</a>
   - <a href="./spring/querydsl/Querydsl 설정.md">QueryDsl 설정</a>
   - <a href="./spring/querydsl/Querydsl 예제 도메인 모델.md">Querydsl 예제 도메인 모델</a>
+  - <a href="./spring/querydsl/JPQL vs Querydsl.md">JPQL vs Querydsl</a>
 - <a href="./spring/스프링 시큐리티에 코틀린 DSL 적용하기.md" target="_blank">스프링 시큐리티에 코틀린 DSL 적용하기</a>
 - <a href="./spring/스프링의 OAuth2 관련 프로젝트들.md" target="_blank">스프링의 OAuth2 관련 프로젝트들</a>
 - <a href="./spring/Spring Security OAuth2 Client - application.yml 설정 및 OAuth2ClientProperties.md" target="_blank">Spring Security OAuth2 Client - application.yml 설정 및 OAuth2ClientProperties</a>
