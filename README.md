@@ -105,7 +105,7 @@
 - <a href="./data-structure-and-algorithm/배열.md" href="_blank">배열</a>
 - <a href="./data-structure-and-algorithm/재귀함수.md" href="_blank">재귀함수</a>
 - <a href="./data-structure-and-algorithm/연결 리스트(Linked List).md" href="_blank">연결 리스트(Linked List)</a>
-- <a href="./data-structure-and-algorithm/이진탐색.md" href="_blank">이진탐색</a>
+- <a href="./data-structure-and-algorithm/이진 탐색(Binary Search).md" href="_blank">이진 탐색(Binary Search)</a>
 - <a href="./data-structure-and-algorithm/정렬.md" href="_blank">정렬</a>
 - <a href="./data-structure-and-algorithm/스택.md" href="_blank">스택</a>
 - <a href="./data-structure-and-algorithm/큐.md" href="_blank">큐</a>
