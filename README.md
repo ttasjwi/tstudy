@@ -108,7 +108,7 @@
 - <a href="./data-structure-and-algorithm/이진 탐색(Binary Search).md" href="_blank">이진 탐색(Binary Search)</a>
 - <a href="./data-structure-and-algorithm/정렬.md" href="_blank">정렬</a>
 - <a href="./data-structure-and-algorithm/스택.md" href="_blank">스택</a>
-- <a href="./data-structure-and-algorithm/큐.md" href="_blank">큐</a>
+- <a href="./data-structure-and-algorithm/큐(Queue).md" href="_blank">큐(Queue)</a>
 - <a href="./data-structure-and-algorithm/해쉬.md" href="_blank">해쉬</a>
 - <a href="./data-structure-and-algorithm/트리.md" href="_blank">트리</a>
 - <a href="./data-structure-and-algorithm/힙.md" href="_blank">힙</a>
