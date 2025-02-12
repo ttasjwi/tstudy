@@ -110,7 +110,7 @@
 - <a href="./data-structure-and-algorithm/스택.md" href="_blank">스택</a>
 - <a href="./data-structure-and-algorithm/큐(Queue).md" href="_blank">큐(Queue)</a>
 - <a href="./data-structure-and-algorithm/해쉬.md" href="_blank">해쉬</a>
-- <a href="./data-structure-and-algorithm/트리.md" href="_blank">트리</a>
+- <a href="./data-structure-and-algorithm/트리(Tree).md" href="_blank">트리(Tree)</a>
 - <a href="./data-structure-and-algorithm/힙.md" href="_blank">힙</a>
 - <a href="./data-structure-and-algorithm/그래프.md" href="_blank">그래프</a>
 - <a href="./data-structure-and-algorithm/DFS & BFS.md" href="_blank">DFS & BFS</a>
