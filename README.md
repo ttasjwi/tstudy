@@ -112,7 +112,7 @@
 - <a href="./data-structure-and-algorithm/해쉬.md" href="_blank">해쉬</a>
 - <a href="./data-structure-and-algorithm/트리(Tree).md" href="_blank">트리(Tree)</a>
 - <a href="./data-structure-and-algorithm/힙(Heap).md" href="_blank">힙(Heap)</a>
-- <a href="./data-structure-and-algorithm/그래프.md" href="_blank">그래프</a>
+- <a href="./data-structure-and-algorithm/그래프(Graph).md" href="_blank">그래프(Graph)</a>
 - <a href="./data-structure-and-algorithm/DFS & BFS.md" href="_blank">DFS & BFS</a>
 - <a href="./data-structure-and-algorithm/DP(Dynamic Programming).md" href="_blank">DP(Dynamic Programming)</a>
 
