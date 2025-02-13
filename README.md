@@ -48,6 +48,12 @@
 
 #### DataBase
 - <a href="./database/데이터베이스 모델링이란.md" target="_blank">데이터베이스 모델링이란</a>
+  - <a href="./database/데이터베이스 설계 규칙 (1) 한 칸에는 한 가지 정보만 들어가도록 만들어라.md" target="_blank">데이터베이스 설계 규칙 (1) 한 칸에는 한 가지 정보만 들어가도록 만들어라</a>
+  - <a href="./database/데이터베이스 설계 규칙 (2) 어떤 테이블에 FK를 넣어도 '규칙 1'을 못 지킬 때는 중간 테이블을 하나 더 만들어라.md" target="_blank">데이터베이스 설계 규칙 (2) 어떤 테이블에 FK를 넣어도 '규칙 1'을 못 지킬 때는 중간 테이블을 하나 더 만들어라</a>
+  - <a href="./database/데이터베이스 설계 규칙 (3) 헷갈릴 땐 관계(1:1, 1:N, N:M)를 파악해봐라.md" target="_blank">데이터베이스 설계 규칙 (3) 헷갈릴 땐 관계(1:1, 1:N, N:M)를 파악해봐라</a>
+  - <a href="./database/데이터베이스 설계 규칙 (4) 데이터 중복이 발생하는 컬럼이 있는 지 확인해라.md" target="_blank">데이터베이스 설계 규칙 (4) 데이터 중복이 발생하는 컬럼이 있는 지 확인해라</a>
+  - <a href="./database/데이터베이스 설계 규칙 (5) 가짜 중복과 진짜 중복을 구별해라.md" target="_blank">데이터베이스 설계 규칙 (5) 가짜 중복과 진짜 중복을 구별해라</a>
+  - <a href="./database/데이터베이스 설계 규칙 (6) 숨어있는 중복을 찾아라.md" target="_blank">데이터베이스 설계 규칙 (6) 숨어있는 중복을 찾아라</a>
 - <a href="./database/데이터베이스 성능 최적화.md" target="_blank">데이터베이스 성능 최적화</a>
   - <a href="./database/데이터베이스 아키텍처와 SQL 튜닝.md" target="_blank">데이터베이스 아키텍처와 SQL 튜닝</a>
   - <a href="./database/인덱스.md" target="_blank">인덱스</a>
