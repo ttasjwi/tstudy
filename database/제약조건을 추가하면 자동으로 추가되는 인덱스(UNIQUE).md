@@ -16,7 +16,7 @@ CREATE TABLE members (
 ---
 
 ### 인덱스 목록 조회
-```sql
+```shell
 mysql> SHOW INDEX FROM members;
 +---------+------------+----------+--------------+-------------+-----------+-------------+----------+--------+------+------------+---------+---------------+---------+------------+
 | Table   | Non_unique | Key_name | Seq_in_index | Column_name | Collation | Cardinality | Sub_part | Packed | Null | Index_type | Comment | Index_comment | Visible | Expression |
