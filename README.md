@@ -60,6 +60,7 @@
   - <a href="./database/기본으로 설정되는 인덱스(PK).md" target="_blank">기본으로 설정되는 인덱스(PK)</a>
   - <a href="./database/제약조건을 추가하면 자동으로 추가되는 인덱스(UNIQUE).md" target="_blank">제약조건을 추가하면 자동으로 추가되는 인덱스(UNIQUE)</a>
   - <a href="./database/인덱스를 과도하게 많이 추가하지 마라.md" target="_blank">인덱스를 과도하게 많이 추가하지 마라</a>
+  - <a href="./database/멀티 칼럼 인덱스(Multi-column Index).md" target="_blank">멀티 칼럼 인덱스(Multi-column Index)</a>
 - MySQL
   - <a href="./database/mysql/MySQL - Docker를 통한 MySQL 환경 구성.md" target="_blank">MySQL - Docker를 통한 MySQL 환경 구성</a>
   - <a href="./database/mysql/언두 로그와 MVCC (Multi Version Concurrency Control).md" target="_blank">언두 로그와 MVCC (Multi Version Concurrency Control)</a>
