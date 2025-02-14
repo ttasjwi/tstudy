@@ -3,7 +3,7 @@
 ---
 
 ### 테이블 생성
-```sql
+```mysql
 DROP TABLE IF EXISTS members; # 기존 테이블이 존재하면 삭제
 
 CREATE TABLE members (
@@ -15,7 +15,7 @@ CREATE TABLE members (
 ---
 
 ### 데이터 삽입 후 조회
-```sql
+```mysql
 INSERT INTO members (id, name) VALUES
                                  (1, 'a'),
                                  (3, 'b'),
@@ -41,7 +41,7 @@ mysql> select * from members;
 ---
 
 ### id 수정
-```sql
+```mysql
 UPDATE members
 SET id = 2
 WHERE id = 7;
@@ -52,7 +52,7 @@ SELECT * FROM members;
 ---
 
 ### 조회
-```sql
+```shell
 mysql> SELECT * FROM members;
 +----+------+
 | id | name |
@@ -72,7 +72,7 @@ mysql> SELECT * FROM members;
 ---
 
 ### 실제 인덱스 확인
-```sql
+```shell
 mysql> SHOW INDEX FROM members;
 +---------+------------+----------+--------------+-------------+-----------+-------------+----------+--------+------+------------+---------+---------------+---------+------------+
 | Table   | Non_unique | Key_name | Seq_in_index | Column_name | Collation | Cardinality | Sub_part | Packed | Null | Index_type | Comment | Index_comment | Visible | Expression |
