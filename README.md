@@ -65,6 +65,7 @@
   - <a href="./database/커버링 인덱스(Covering Index).md" target="_blank">커버링 인덱스(Covering Index)</a>
   - <a href="./database/실행 계획(Execution plan).md" target="_blank">실행 계획(Execution plan)</a>
   - <a href="./database/실행 계획에서 type의 의미.md" target="_blank">실행 계획에서 type의 의미</a>
+  - <a href="./database/목록 조회시 너무 많이 조회하지 않도록 데이터의 건수를 지정하자(LIMIT).md" target="_blank">목록 조회시 너무 많이 조회하지 않도록 데이터의 건수를 지정하자(LIMIT)</a>
 - MySQL
   - <a href="./database/mysql/MySQL - Docker를 통한 MySQL 환경 구성.md" target="_blank">MySQL - Docker를 통한 MySQL 환경 구성</a>
   - <a href="./database/mysql/언두 로그와 MVCC (Multi Version Concurrency Control).md" target="_blank">언두 로그와 MVCC (Multi Version Concurrency Control)</a>
