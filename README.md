@@ -30,6 +30,7 @@
   - <a href="./devops/kubernetes/이미지가 없다고 에러가 뜨는 이유 (이미지 풀 정책).md" target="_blank">이미지가 없다고 에러가 뜨는 이유 (이미지 풀 정책)</a>
   - <a href="./devops/kubernetes/(예제) 백엔드(Nest.js) 서버를 파드(Pod)로 띄워보기.md" target="_blank">(예제) 백엔드(Nest.js) 서버를 파드(Pod)로 띄워보기</a>
   - <a href="./devops/kubernetes/(예제) 프론트엔드(HTML,CSS,Nginx) 서버를 파드(Pod)로 띄워보기.md" target="_blank">(예제) 프론트엔드(HTML,CSS,Nginx) 서버를 파드(Pod)로 띄워보기</a>
+  - <a href="./devops/kubernetes/(예제) 프론트엔드(Next.js) 서버를 파드(Pod)로 띄워보기.md" target="_blank">(예제) 프론트엔드(Next.js) 서버를 파드(Pod)로 띄워보기</a>
 
 ---
 
