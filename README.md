@@ -26,6 +26,7 @@
   - <a href="./devops/kubernetes/파드(Pod).md" target="_blank">파드(Pod)</a>
   - <a href="./devops/kubernetes/파드 생성.md" target="_blank">파드 생성</a>
   - <a href="./devops/kubernetes/파드 외부에서 파드 내부 프로그램에 접근하기(포트 포워딩).md" target="_blank">파드 외부에서 파드 내부 프로그램에 접근하기(포트 포워딩)</a>
+  - <a href="./devops/kubernetes/(예제) 백엔드(Spring Boot) 서버를 파드(Pod)로 띄워보기.md" target="_blank">(예제) 백엔드(Spring Boot) 서버를 파드(Pod)로 띄워보기</a>
 
 ---
 
