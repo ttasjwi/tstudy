@@ -32,6 +32,7 @@
   - <a href="./devops/kubernetes/(예제) 프론트엔드(HTML,CSS,Nginx) 서버를 파드(Pod)로 띄워보기.md" target="_blank">(예제) 프론트엔드(HTML,CSS,Nginx) 서버를 파드(Pod)로 띄워보기</a>
   - <a href="./devops/kubernetes/(예제) 프론트엔드(Next.js) 서버를 파드(Pod)로 띄워보기.md" target="_blank">(예제) 프론트엔드(Next.js) 서버를 파드(Pod)로 띄워보기</a>
   - <a href="./devops/kubernetes/파드(Pod) 디버깅하는 방법.md" target="_blank">파드(Pod) 디버깅하는 방법</a>
+  - <a href="./devops/kubernetes/쿠버네티스 명령어 정리.md" target="_blank">쿠버네티스 명령어 정리</a>
 
 ---
 
