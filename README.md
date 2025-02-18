@@ -35,6 +35,7 @@
   - <a href="./devops/kubernetes/쿠버네티스 명령어 정리.md" target="_blank">쿠버네티스 명령어 정리</a>
   - <a href="./devops/kubernetes/백엔드(Spring Boot) 서버 3개 띄워보기.md" target="_blank">백엔드(Spring Boot) 서버 3개 띄워보기</a>
   - <a href="./devops/kubernetes/디플로이먼트(Deployment).md" target="_blank">디플로이먼트(Deployment)</a>
+  - <a href="./devops/kubernetes/(예제) 디플로이먼트를 활용해 백엔드(Spring Boot) 서버 3개 띄워보기.md" target="_blank">(예제) 디플로이먼트를 활용해 백엔드(Spring Boot) 서버 3개 띄워보기</a>
 
 ---
 
