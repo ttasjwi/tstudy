@@ -34,6 +34,7 @@
   - <a href="./devops/kubernetes/파드(Pod) 디버깅하는 방법.md" target="_blank">파드(Pod) 디버깅하는 방법</a>
   - <a href="./devops/kubernetes/쿠버네티스 명령어 정리.md" target="_blank">쿠버네티스 명령어 정리</a>
   - <a href="./devops/kubernetes/백엔드(Spring Boot) 서버 3개 띄워보기.md" target="_blank">백엔드(Spring Boot) 서버 3개 띄워보기</a>
+  - <a href="./devops/kubernetes/디플로이먼트(Deployment).md" target="_blank">디플로이먼트(Deployment)</a>
 
 ---
 
