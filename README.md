@@ -36,6 +36,7 @@
   - <a href="./devops/kubernetes/백엔드(Spring Boot) 서버 3개 띄워보기.md" target="_blank">백엔드(Spring Boot) 서버 3개 띄워보기</a>
   - <a href="./devops/kubernetes/디플로이먼트(Deployment).md" target="_blank">디플로이먼트(Deployment)</a>
   - <a href="./devops/kubernetes/(예제) 디플로이먼트를 활용해 백엔드(Spring Boot) 서버 3개 띄워보기.md" target="_blank">(예제) 디플로이먼트를 활용해 백엔드(Spring Boot) 서버 3개 띄워보기</a>
+  - <a href="./devops/kubernetes/서비스(Service).md" target="_blank">서비스(Service)</a>
 
 ---
 
