@@ -23,6 +23,7 @@
   - <a href="./devops/kubernetes/GKE 쿠버네티스 클러스터 생성.md" target="_blank">GKE 쿠버네티스 클러스터 생성</a>
   - <a href="./devops/kubernetes/GKE 클러스터 사용 및 애플리케이션 배포.md" target="_blank">GKE 클러스터 사용 및 애플리케이션 배포</a>
   - <a href="./devops/kubernetes/GCE VM 을 통한 클러스터 구성, 애플리케이션 배포.md" target="_blank">GCE VM 을 통한 클러스터 구성, 애플리케이션 배포</a>
+  - <a href="./devops/kubernetes/쿠버네티스 핵심 개념 - 파드(Pod), 디플로이먼트(Deployment), 서비스(Service).md" target="_blank">쿠버네티스 핵심 개념 - 파드(Pod), 디플로이먼트(Deployment), 서비스(Service)</a>
   - <a href="./devops/kubernetes/파드(Pod).md" target="_blank">파드(Pod)</a>
   - <a href="./devops/kubernetes/파드 생성.md" target="_blank">파드 생성</a>
   - <a href="./devops/kubernetes/파드 외부에서 파드 내부 프로그램에 접근하기(포트 포워딩).md" target="_blank">파드 외부에서 파드 내부 프로그램에 접근하기(포트 포워딩)</a>
