@@ -41,6 +41,7 @@
   - <a href="./devops/kubernetes/디플로이먼트를 활용한 서버 개수 조절 방법.md" target="_blank">디플로이먼트를 활용한 서버 개수 조절 방법</a>
   - <a href="./devops/kubernetes/서버가 죽었을 때 자동으로 복구하는 기능 (Self-Healing).md" target="_blank">서버가 죽었을 때 자동으로 복구하는 기능 (Self-Healing)</a>
   - <a href="./devops/kubernetes/새로운 버전의 서버로 업데이트 시키기.md" target="_blank">새로운 버전의 서버로 업데이트 시키기</a>
+  - <a href="./devops/kubernetes/(예제) 디플로이먼트, 서비스를 활용해 백엔드(Nest.js) 서버 띄워보기.md" target="_blank">(예제) 디플로이먼트, 서비스를 활용해 백엔드(Nest.js) 서버 띄워보기</a>
 
 ---
 
