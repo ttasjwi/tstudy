@@ -46,6 +46,7 @@
   - <a href="./devops/kubernetes/(예제) 백엔드(Spring Boot) 서버에 환경변수 등록해 사용하기.md" target="_blank">(예제) 백엔드(Spring Boot) 서버에 환경변수 등록해 사용하기</a>
   - <a href="./devops/kubernetes/컨피그맵(ConfigMap)을 활용해 환경변수 분리하기.md" target="_blank">컨피그맵(ConfigMap)을 활용해 환경변수 분리하기</a>
   - <a href="./devops/kubernetes/시크릿(Secret)을 활용해 '민감한 값'을 환경 변수로 분리하기.md" target="_blank">시크릿(Secret)을 활용해 '민감한 값'을 환경 변수로 분리하기</a>
+  - <a href="./devops/kubernetes/볼륨(Volume).md" target="_blank">볼륨(Volume)</a>
 
 ---
 
