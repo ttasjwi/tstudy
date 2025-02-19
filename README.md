@@ -24,6 +24,7 @@
   - <a href="./devops/kubernetes/GKE 클러스터 사용 및 애플리케이션 배포.md" target="_blank">GKE 클러스터 사용 및 애플리케이션 배포</a>
   - <a href="./devops/kubernetes/GCE VM 을 통한 클러스터 구성, 애플리케이션 배포.md" target="_blank">GCE VM 을 통한 클러스터 구성, 애플리케이션 배포</a>
   - <a href="./devops/kubernetes/쿠버네티스 핵심 개념 - 파드(Pod), 디플로이먼트(Deployment), 서비스(Service).md" target="_blank">쿠버네티스 핵심 개념 - 파드(Pod), 디플로이먼트(Deployment), 서비스(Service)</a>
+  - <a href="./devops/kubernetes/쿠버네티스 명령어 정리.md" target="_blank">쿠버네티스 명령어 정리</a>
   - <a href="./devops/kubernetes/파드(Pod).md" target="_blank">파드(Pod)</a>
   - <a href="./devops/kubernetes/파드 생성.md" target="_blank">파드 생성</a>
   - <a href="./devops/kubernetes/파드 외부에서 파드 내부 프로그램에 접근하기(포트 포워딩).md" target="_blank">파드 외부에서 파드 내부 프로그램에 접근하기(포트 포워딩)</a>
@@ -33,7 +34,6 @@
   - <a href="./devops/kubernetes/(예제) 프론트엔드(HTML,CSS,Nginx) 서버를 파드(Pod)로 띄워보기.md" target="_blank">(예제) 프론트엔드(HTML,CSS,Nginx) 서버를 파드(Pod)로 띄워보기</a>
   - <a href="./devops/kubernetes/(예제) 프론트엔드(Next.js) 서버를 파드(Pod)로 띄워보기.md" target="_blank">(예제) 프론트엔드(Next.js) 서버를 파드(Pod)로 띄워보기</a>
   - <a href="./devops/kubernetes/파드(Pod) 디버깅하는 방법.md" target="_blank">파드(Pod) 디버깅하는 방법</a>
-  - <a href="./devops/kubernetes/쿠버네티스 명령어 정리.md" target="_blank">쿠버네티스 명령어 정리</a>
   - <a href="./devops/kubernetes/백엔드(Spring Boot) 서버 3개 띄워보기.md" target="_blank">백엔드(Spring Boot) 서버 3개 띄워보기</a>
   - <a href="./devops/kubernetes/디플로이먼트(Deployment).md" target="_blank">디플로이먼트(Deployment)</a>
   - <a href="./devops/kubernetes/(예제) 디플로이먼트를 활용해 백엔드(Spring Boot) 서버 3개 띄워보기.md" target="_blank">(예제) 디플로이먼트를 활용해 백엔드(Spring Boot) 서버 3개 띄워보기</a>
@@ -43,6 +43,7 @@
   - <a href="./devops/kubernetes/서버가 죽었을 때 자동으로 복구하는 기능 (Self-Healing).md" target="_blank">서버가 죽었을 때 자동으로 복구하는 기능 (Self-Healing)</a>
   - <a href="./devops/kubernetes/새로운 버전의 서버로 업데이트 시키기.md" target="_blank">새로운 버전의 서버로 업데이트 시키기</a>
   - <a href="./devops/kubernetes/(예제) 디플로이먼트, 서비스를 활용해 백엔드(Nest.js) 서버 띄워보기.md" target="_blank">(예제) 디플로이먼트, 서비스를 활용해 백엔드(Nest.js) 서버 띄워보기</a>
+  - <a href="./devops/kubernetes/(예제) 백엔드(Spring Boot) 서버에 환경변수 등록해 사용하기.md" target="_blank">(예제) 백엔드(Spring Boot) 서버에 환경변수 등록해 사용하기</a>
 
 ---
 
