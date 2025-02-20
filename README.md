@@ -49,6 +49,7 @@
   - <a href="./devops/kubernetes/볼륨(Volume).md" target="_blank">볼륨(Volume)</a>
   - <a href="./devops/kubernetes/(예제) 디플로이먼트(Deployment)를 활용해 MySQL 실행시키기.md" target="_blank">(예제) 디플로이먼트(Deployment)를 활용해 MySQL 실행시키기</a>
   - <a href="./devops/kubernetes/볼륨(Volume)을 활용해 MySQL 실행시키기.md" target="_blank">볼륨(Volume)을 활용해 MySQL 실행시키기</a>
+  - <a href="./devops/kubernetes/(예제) 백엔드(Spring Boot) 서버와 MySQL 연동하기.md" target="_blank">(예제) 백엔드(Spring Boot) 서버와 MySQL 연동하기</a>
 
 ---
 
