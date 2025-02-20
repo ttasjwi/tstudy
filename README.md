@@ -47,6 +47,7 @@
   - <a href="./devops/kubernetes/컨피그맵(ConfigMap)을 활용해 환경변수 분리하기.md" target="_blank">컨피그맵(ConfigMap)을 활용해 환경변수 분리하기</a>
   - <a href="./devops/kubernetes/시크릿(Secret)을 활용해 '민감한 값'을 환경 변수로 분리하기.md" target="_blank">시크릿(Secret)을 활용해 '민감한 값'을 환경 변수로 분리하기</a>
   - <a href="./devops/kubernetes/볼륨(Volume).md" target="_blank">볼륨(Volume)</a>
+  - <a href="./devops/kubernetes/(예제) 디플로이먼트(Deployment)를 활용해 MySQL 실행시키기.md" target="_blank">(예제) 디플로이먼트(Deployment)를 활용해 MySQL 실행시키기</a>
 
 ---
 
