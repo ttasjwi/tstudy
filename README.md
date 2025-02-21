@@ -53,6 +53,9 @@
   - <a href="./devops/kubernetes/스프링 서버와 MySQL이 제대로 연결되지 않을 때.md" target="_blank">스프링 서버와 MySQL이 제대로 연결되지 않을 때</a>
   - <a href="./devops/kubernetes/보안을 위해 외부에서 MySQL 접근하지 못하도록 막기.md" target="_blank">보안을 위해 외부에서 MySQL 접근하지 못하도록 막기</a>
   - <a href="./devops/kubernetes/k3s.md" target="_blank">k3s</a>
+  - <a href="./devops/kubernetes/EC2에서 도커,쿠버네티스 설치하기 (k3s).md" target="_blank">EC2에서 도커,쿠버네티스 설치하기 (k3s)</a>
+- AWS
+  - <a href="./devops/aws/AWS CLI 설치.md" target="_blank">AWS CLI 설치</a>
 
 ---
 
