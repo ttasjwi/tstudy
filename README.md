@@ -54,6 +54,7 @@
   - <a href="./devops/kubernetes/보안을 위해 외부에서 MySQL 접근하지 못하도록 막기.md" target="_blank">보안을 위해 외부에서 MySQL 접근하지 못하도록 막기</a>
   - <a href="./devops/kubernetes/k3s.md" target="_blank">k3s</a>
   - <a href="./devops/kubernetes/EC2에서 도커,쿠버네티스 설치하기 (k3s).md" target="_blank">EC2에서 도커,쿠버네티스 설치하기 (k3s)</a>
+  - <a href="./devops/kubernetes/(예제) 디플로이먼트, 서비스를 활용해 EC2에 웹 서버(Nginx) 띄워보기.md" target="_blank">(예제) 디플로이먼트, 서비스를 활용해 EC2에 웹 서버(Nginx) 띄워보기</a>
 - AWS
   - <a href="./devops/aws/AWS CLI 설치.md" target="_blank">AWS CLI 설치</a>
 
