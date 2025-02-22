@@ -57,6 +57,7 @@
   - <a href="./devops/kubernetes/(예제) 디플로이먼트, 서비스를 활용해 EC2에 웹 서버(Nginx) 띄워보기.md" target="_blank">(예제) 디플로이먼트, 서비스를 활용해 EC2에 웹 서버(Nginx) 띄워보기</a>
   - <a href="./devops/kubernetes/(예제) 백엔드(Spring Boot) 서버 EC2에 배포하기, DB 연동하기 (+RDS,ECR).md" target="_blank">(예제) 백엔드(Spring Boot) 서버 EC2에 배포하기, DB 연동하기 (+RDS,ECR)</a>
   - <a href="./devops/kubernetes/RDS, ECR 생성하기.md" target="_blank">RDS, ECR 생성하기</a>
+  - <a href="./devops/kubernetes/EC2에 배포할 백엔드(Spring Boot) 서버 프로젝트, 매니페스트 파일 구성하기.md" target="_blank">EC2에 배포할 백엔드(Spring Boot) 서버 프로젝트, 매니페스트 파일 구성하기</a>
 - AWS
   - <a href="./devops/aws/AWS CLI 설치.md" target="_blank">AWS CLI 설치</a>
 
