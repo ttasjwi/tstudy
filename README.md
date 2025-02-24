@@ -19,6 +19,7 @@
   - <a href="./devops/docker/Windows 에서 Docker 설치.md" target="_blank">Windows 에서 Docker 설치</a>
   - <a href="./devops/docker/도커 컴포즈(Docker Compose).md" target="_blank">도커 컴포즈(Docker Compose)</a>
 - <a href="./devops/kubernetes/쿠버네티스(Kubernetes).md" target="_blank">쿠버네티스(Kubernetes)</a>
+  - <a href="./devops/kubernetes/남들보다 훨씬 쿠버네티스를 빠르게 배우는 방법.md" target="_blank">남들보다 훨씬 쿠버네티스를 빠르게 배우는 방법</a>
   - <a href="./devops/kubernetes/Windows 에서 쿠버네티스 설치.md" target="_blank">Windows 에서 쿠버네티스 설치</a>
   - <a href="./devops/kubernetes/GKE 쿠버네티스 클러스터 생성.md" target="_blank">GKE 쿠버네티스 클러스터 생성</a>
   - <a href="./devops/kubernetes/GKE 클러스터 사용 및 애플리케이션 배포.md" target="_blank">GKE 클러스터 사용 및 애플리케이션 배포</a>
@@ -61,6 +62,7 @@
   - <a href="./devops/kubernetes/백엔드(Spring Boot) 서버 빌드한 후 ECR로 Push하기.md" target="_blank">백엔드(Spring Boot) 서버 빌드한 후 ECR로 Push하기</a>
   - <a href="./devops/kubernetes/EC2가 ECR로부터 이미지를 Pull 받아올 수 있게 권한 부여하기.md" target="_blank">EC2가 ECR로부터 이미지를 Pull 받아올 수 있게 권한 부여하기</a>
   - <a href="./devops/kubernetes/EC2에서 쿠버네티스로 백엔드(Spring Boot) 서버 띄우기.md" target="_blank">EC2에서 쿠버네티스로 백엔드(Spring Boot) 서버 띄우기</a>
+  - <a href="./devops/kubernetes/EC2에 배포된 백엔드(Spring Boot) 서버 업데이트하기.md" target="_blank">EC2에 배포된 백엔드(Spring Boot) 서버 업데이트하기</a>
   - <a href="./devops/kubernetes/EC2에 배포된 백엔드(Spring Boot) 서버 업데이트하기.md" target="_blank">EC2에 배포된 백엔드(Spring Boot) 서버 업데이트하기</a>
 - AWS
   - <a href="./devops/aws/AWS CLI 설치.md" target="_blank">AWS CLI 설치</a>
