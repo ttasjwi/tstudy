@@ -63,7 +63,7 @@
   - <a href="./devops/kubernetes/EC2가 ECR로부터 이미지를 Pull 받아올 수 있게 권한 부여하기.md" target="_blank">EC2가 ECR로부터 이미지를 Pull 받아올 수 있게 권한 부여하기</a>
   - <a href="./devops/kubernetes/EC2에서 쿠버네티스로 백엔드(Spring Boot) 서버 띄우기.md" target="_blank">EC2에서 쿠버네티스로 백엔드(Spring Boot) 서버 띄우기</a>
   - <a href="./devops/kubernetes/EC2에 배포된 백엔드(Spring Boot) 서버 업데이트하기.md" target="_blank">EC2에 배포된 백엔드(Spring Boot) 서버 업데이트하기</a>
-  - <a href="./devops/kubernetes/EC2에 배포된 백엔드(Spring Boot) 서버 업데이트하기.md" target="_blank">EC2에 배포된 백엔드(Spring Boot) 서버 업데이트하기</a>
+  - <a href="./devops/kubernetes/EKS(Elastic Kubernetes Service).md" target="_blank">EKS(Elastic Kubernetes Service)</a>
 - AWS
   - <a href="./devops/aws/AWS CLI 설치.md" target="_blank">AWS CLI 설치</a>
 
