@@ -60,6 +60,7 @@
   - <a href="./devops/kubernetes/EC2에 배포할 백엔드(Spring Boot) 서버 프로젝트, 매니페스트 파일 구성하기.md" target="_blank">EC2에 배포할 백엔드(Spring Boot) 서버 프로젝트, 매니페스트 파일 구성하기</a>
   - <a href="./devops/kubernetes/백엔드(Spring Boot) 서버 빌드한 후 ECR로 Push하기.md" target="_blank">백엔드(Spring Boot) 서버 빌드한 후 ECR로 Push하기</a>
   - <a href="./devops/kubernetes/EC2가 ECR로부터 이미지를 Pull 받아올 수 있게 권한 부여하기.md" target="_blank">EC2가 ECR로부터 이미지를 Pull 받아올 수 있게 권한 부여하기</a>
+  - <a href="./devops/kubernetes/EC2에서 쿠버네티스로 백엔드(Spring Boot) 서버 띄우기.md" target="_blank">EC2에서 쿠버네티스로 백엔드(Spring Boot) 서버 띄우기</a>
 - AWS
   - <a href="./devops/aws/AWS CLI 설치.md" target="_blank">AWS CLI 설치</a>
 
