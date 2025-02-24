@@ -48,7 +48,7 @@ aws ecr get-login-password --region ap-northeast-2 | docker login --username AWS
 #### 5.2 빌드, 푸시
 ```shell
 ./gradlew clean build
-docker build -t kube-ecr .
+docker build --platform linux/arm64 -t kube-ecr .
 docker tag kube-ecr:latest 533267359155.dkr.ecr.ap-northeast-2.amazonaws.com/kube-ecr:1.0
 
 docker push 533267359155.dkr.ecr.ap-northeast-2.amazonaws.com/kube-ecr:1.0
