@@ -66,6 +66,7 @@
   - <a href="./devops/kubernetes/EKS(Elastic Kubernetes Service).md" target="_blank">EKS(Elastic Kubernetes Service)</a>
   - <a href="./devops/kubernetes/쿠버네티스와 EKS의 아키텍처 구조.md" target="_blank">쿠버네티스와 EKS의 아키텍처 구조</a>
   - <a href="./devops/kubernetes/EKS 클러스터 생성하기.md" target="_blank">EKS 클러스터 생성하기</a>
+  - <a href="./devops/kubernetes/EKS 워커 노드 추가하기.md" target="_blank">EKS 워커 노드 추가하기</a>
 - AWS
   - <a href="./devops/aws/AWS CLI 설치.md" target="_blank">AWS CLI 설치</a>
 
