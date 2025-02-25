@@ -69,6 +69,7 @@
   - <a href="./devops/kubernetes/EKS 워커 노드 추가하기.md" target="_blank">EKS 워커 노드 추가하기</a>
   - <a href="./devops/kubernetes/로컬에서 EKS 클러스터 조정할 수 있게 셋팅하기.md" target="_blank">로컬에서 EKS 클러스터 조정할 수 있게 셋팅하기</a>
   - <a href="./devops/kubernetes/EKS에 백엔드(Spring Boot) 서버 배포하기 (+RDS,ECR).md" target="_blank">EKS에 백엔드(Spring Boot) 서버 배포하기 (+RDS,ECR)</a>
+  - <a href="./devops/kubernetes/비용 나가지 않게 EKS 종료하기.md" target="_blank">비용 나가지 않게 EKS 종료하기</a>
 - AWS
   - <a href="./devops/aws/AWS CLI 설치.md" target="_blank">AWS CLI 설치</a>
 
