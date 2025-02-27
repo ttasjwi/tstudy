@@ -6,11 +6,34 @@
 - <a href="./back-end/동시성 문제.md" target="_blank">동시성 문제</a>
 - <a href="./back-end/메시지 큐, 이벤트 스트림.md" target="_blank">메시지 큐, 이벤트 스트림</a>
 - 부하테스트
-  - <a href="./back-end/부하테스트란, 부하테스트를 하는 이유.md" target="_blank">부하테스트란, 부하테스트를 하는 이유</a>
-  - <a href="./back-end/처리량(Throughput), 지연 시간(Latency).md" target="_blank">처리량(Throughput), 지연 시간(Latency)</a>
-  - <a href="./back-end/부하테스트 툴.md" target="_blank">부하테스트 툴</a>
-  - <a href="./back-end/부하테스트 툴 실습(k6).md" target="_blank">부하테스트 툴 실습(k6)</a>
-  - <a href="./back-end/병목 지점(Bottleneck Point).md" target="_blank">병목 지점 (Bottleneck Point)</a>
+  - 부하테스트 기본 개념
+    - <a href="./back-end/부하테스트란, 부하테스트를 하는 이유.md" target="_blank">부하테스트란, 부하테스트를 하는 이유</a>
+    - <a href="./back-end/처리량(Throughput), 지연 시간(Latency).md" target="_blank">처리량(Throughput), 지연 시간(Latency)</a>
+    - <a href="./back-end/부하테스트 툴.md" target="_blank">부하테스트 툴</a>
+    - <a href="./back-end/(실습) EC2에 간단한 테스트용 API 서버 셋팅하기.md" target="_blank">(실습) EC2에 간단한 테스트용 API 서버 셋팅하기</a>
+    - <a href="./back-end/(실습) EC2에 부하 테스트 툴 셋팅하기.md" target="_blank">(실습) EC2에 부하 테스트 툴 셋팅하기</a>
+    - <a href="./back-end/(실습) 내가 구성한 백엔드 서버는 1초당 몇 개의 요청을 견뎌낼 수 있을까.md" target="_blank">(실습) 내가 구성한 백엔드 서버는 1초당 몇 개의 요청을 견뎌낼 수 있을까</a>
+  - 부하테스트를 통한 병목 지점 진단
+    - <a href="./back-end/병목 지점(Bottleneck Point).md" target="_blank">병목 지점 (Bottleneck Point)</a>
+    - 부하테스트 전체 흐름
+    - 부하테스트 시 주의점
+    - (실습) 부하테스트 할 인프라 구성
+    - (실습) 내가 구성한 인프라는 1초당 몇 개의 요청을 견뎌낼 수 있을까
+    - 모니터링, 메트릭
+    - CPU, 메모리, 디스크
+    - EC2 모니터링 셋팅
+    - RDS 모니터링 셋팅
+    - ELB의 CPU, 메모리를 측정하지 않는 이유
+    - 각 서버의 CPU, 메모리를 한 눈에 볼 수 있도록 셋팅하기
+    - 부하테스트를 통해 병목 지점 진단하기
+    - 실시간으로 CPU 와 메모리를 관측하는 방법
+  - 병목 지점 해결을 통한 성능 개선
+    - 가용성, 시스템 이중화
+    - 수평적 확장, 수직적 확장, 캐싱
+    - 트래픽 증가에 따른 시스템 설계 및 확장 방법
+    - 병목지점(DB) 해결
+    - 병목지점(웹 애플리케이션 서버) 해결하기
+    - 부하테스트 전체 흐름 다시 점검
 
 ---
 
