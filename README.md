@@ -7,15 +7,15 @@
 - <a href="./back-end/메시지 큐, 이벤트 스트림.md" target="_blank">메시지 큐, 이벤트 스트림</a>
 - 부하테스트
   - 부하테스트 기본 개념
-    - <a href="./back-end/부하테스트란, 부하테스트를 하는 이유.md" target="_blank">부하테스트란, 부하테스트를 하는 이유</a>
+    - <a href="./back-end/부하 테스트란, 부하테스트를 하는 이유.md" target="_blank">부하 테스트란, 부하테스트를 하는 이유</a>
     - <a href="./back-end/처리량(Throughput), 지연 시간(Latency).md" target="_blank">처리량(Throughput), 지연 시간(Latency)</a>
-    - <a href="./back-end/부하테스트 툴.md" target="_blank">부하테스트 툴</a>
+    - <a href="./back-end/부하 테스트 툴.md" target="_blank">부하 테스트 툴</a>
     - <a href="./back-end/(실습) EC2에 간단한 테스트용 API 서버 셋팅하기.md" target="_blank">(실습) EC2에 간단한 테스트용 API 서버 셋팅하기</a>
     - <a href="./back-end/(실습) EC2에 부하 테스트 툴 셋팅하기(k6).md" target="_blank">(실습) EC2에 부하 테스트 툴 셋팅하기(k6)</a>
     - <a href="./back-end/(실습) 내가 구성한 백엔드 서버는 1초당 몇 개의 요청을 견뎌낼 수 있을까.md" target="_blank">(실습) 내가 구성한 백엔드 서버는 1초당 몇 개의 요청을 견뎌낼 수 있을까</a>
   - 부하테스트를 통한 병목 지점 진단
     - <a href="./back-end/병목 지점(Bottleneck Point).md" target="_blank">병목 지점 (Bottleneck Point)</a>
-    - 부하테스트 전체 흐름
+    - <a href="./back-end/부하 테스트의 전체 흐름.md" target="_blank">부하 테스트의 전체 흐름</a>
     - 부하테스트 시 주의점
     - (실습) 부하테스트 할 인프라 구성
     - (실습) 내가 구성한 인프라는 1초당 몇 개의 요청을 견뎌낼 수 있을까
