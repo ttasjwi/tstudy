@@ -11,7 +11,7 @@
     - <a href="./back-end/처리량(Throughput), 지연 시간(Latency).md" target="_blank">처리량(Throughput), 지연 시간(Latency)</a>
     - <a href="./back-end/부하테스트 툴.md" target="_blank">부하테스트 툴</a>
     - <a href="./back-end/(실습) EC2에 간단한 테스트용 API 서버 셋팅하기.md" target="_blank">(실습) EC2에 간단한 테스트용 API 서버 셋팅하기</a>
-    - <a href="./back-end/(실습) EC2에 부하 테스트 툴 셋팅하기.md" target="_blank">(실습) EC2에 부하 테스트 툴 셋팅하기</a>
+    - <a href="./back-end/(실습) EC2에 부하 테스트 툴 셋팅하기(k6).md" target="_blank">(실습) EC2에 부하 테스트 툴 셋팅하기(k6)</a>
     - <a href="./back-end/(실습) 내가 구성한 백엔드 서버는 1초당 몇 개의 요청을 견뎌낼 수 있을까.md" target="_blank">(실습) 내가 구성한 백엔드 서버는 1초당 몇 개의 요청을 견뎌낼 수 있을까</a>
   - 부하테스트를 통한 병목 지점 진단
     - <a href="./back-end/병목 지점(Bottleneck Point).md" target="_blank">병목 지점 (Bottleneck Point)</a>
