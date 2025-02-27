@@ -16,7 +16,7 @@
   - 부하테스트를 통한 병목 지점 진단
     - <a href="./back-end/병목 지점(Bottleneck Point).md" target="_blank">병목 지점 (Bottleneck Point)</a>
     - <a href="./back-end/부하 테스트의 전체 흐름.md" target="_blank">부하 테스트의 전체 흐름</a>
-    - 부하테스트 시 주의점
+    - <a href="./back-end/부하 테스트 시 주의점.md" target="_blank">부하 테스트 시 주의점</a>
     - (실습) 부하테스트 할 인프라 구성
     - (실습) 내가 구성한 인프라는 1초당 몇 개의 요청을 견뎌낼 수 있을까
     - 모니터링, 메트릭
