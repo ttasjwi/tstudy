@@ -145,6 +145,7 @@
   - <a href="./database/mysql/CTE(Common Table Expression) - WITH 와 WITH RECURSIVE.md" target="_blank">CTE(Common Table Expression) - WITH 와 WITH RECURSIVE</a>
 - <a href="./database/redis/레디스(Redis).md" target="_blank">레디스(Redis)</a>
   - <a href="./database/redis/Redis - Docker를 통한 Redis 환경 구성.md" target="_blank">Redis - Docker를 통한 Redis 환경 구성</a>
+  - <a href="./database/redis/레디스 기본 명령어.md" target="_blank">레디스 기본 명령어</a>
 
 ---
 
