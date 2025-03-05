@@ -147,6 +147,7 @@
   - <a href="./database/redis/Redis - Docker를 통한 Redis 환경 구성.md" target="_blank">Redis - Docker를 통한 Redis 환경 구성</a>
   - <a href="./database/redis/레디스 기본 명령어.md" target="_blank">레디스 기본 명령어</a>
   - <a href="./database/redis/레디스 Key 네이밍 컨벤션.md" target="_blank">레디스 Key 네이밍 컨벤션</a>
+  - <a href="./database/redis/캐시(Cache), 캐싱(Caching)이란.md" target="_blank">캐시(Cache), 캐싱(Caching)이란</a>
 
 ---
 
