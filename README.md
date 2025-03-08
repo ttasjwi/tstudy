@@ -119,6 +119,7 @@
 ---
 
 #### DataBase
+- <a href="./database/기본키(PK, Primary Key) 생성 전략.md" target="_blank">기본키(PK, Primary Key) 생성 전략</a>
 - <a href="./database/데이터베이스 모델링이란.md" target="_blank">데이터베이스 모델링이란</a>
   - <a href="./database/데이터베이스 설계 규칙 (1) 한 칸에는 한 가지 정보만 들어가도록 만들어라.md" target="_blank">데이터베이스 설계 규칙 (1) 한 칸에는 한 가지 정보만 들어가도록 만들어라</a>
   - <a href="./database/데이터베이스 설계 규칙 (2) 어떤 테이블에 FK를 넣어도 '규칙 1'을 못 지킬 때는 중간 테이블을 하나 더 만들어라.md" target="_blank">데이터베이스 설계 규칙 (2) 어떤 테이블에 FK를 넣어도 '규칙 1'을 못 지킬 때는 중간 테이블을 하나 더 만들어라</a>
