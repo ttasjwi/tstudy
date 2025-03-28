@@ -94,6 +94,7 @@
   - <a href="./devops/kubernetes/비용 나가지 않게 EKS 종료하기.md" target="_blank">비용 나가지 않게 EKS 종료하기</a>
 - AWS
   - <a href="./devops/aws/AWS CLI 설치.md" target="_blank">AWS CLI 설치</a>
+  - <a href="./devops/aws/EC2, EC2를 사용하는 이유, 현업에서 EC2는 주로 언제 쓸까.md" target="_blank">EC2, EC2를 사용하는 이유, 현업에서 EC2는 주로 언제 쓸까</a>
 
 ---
 
